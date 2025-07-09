@@ -44,5 +44,3 @@ Limitations
 The model assumes that the input data is in a specific format and that the features are relevant to predicting the final exam score.
 The predicted final exam score is capped between 0 and 100.
 
-License
-This project is licensed under the MIT License.
