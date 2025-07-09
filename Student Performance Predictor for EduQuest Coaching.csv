@@ -1,0 +1,1001 @@
+gender,age,parental_education,family_income,internet_access,previous_exam_score,attendance_rate,homework_completion_rate,class_participation_score,number_of_absences,extra_curricular_involvement,learning_hours_per_week,tutor_support,final_exam_score
+Male,14,Diploma,29591.84,Yes,93.25,91.01,76.56,9.52,1,Moderate,12.08,No,100.0
+Male,16,Diploma,35222.46,Yes,85.06,83.85,64.82,3.42,2,Moderate,11.81,Yes,80.81
+Male,14,Diploma,29730.93,Yes,79.93,86.71,75.02,3.75,1,Low,11.08,Yes,77.96
+Female,15,Diploma,29074.09,Yes,98.94,88.04,55.5,6.95,0,Moderate,6.65,Yes,98.86
+Male,19,Graduate,42305.33,Yes,64.54,61.22,98.85,6.03,5,Moderate,9.26,No,64.64
+Female,18,High School,47544.2,Yes,83.61,69.96,62.04,1.33,3,Low,11.72,Yes,77.58
+Male,16,Graduate,45476.27,Yes,74.85,61.89,95.05,7.06,2,Moderate,5.82,Yes,75.15
+Male,15,Postgraduate,42046.63,Yes,60.56,69.77,82.56,2.07,1,Low,7.85,Yes,62.09
+Male,18,High School,53050.14,No,65.18,96.93,86.09,3.54,4,Low,10.0,Yes,77.42
+Male,14,Diploma,27589.69,Yes,86.35,99.8,88.33,6.08,6,None,13.67,Yes,87.15
+Female,19,Diploma,35031.73,Yes,46.26,65.25,53.93,4.6,3,None,11.57,No,52.1
+Female,18,Diploma,43469.04,Yes,100.0,98.16,68.41,8.87,0,None,6.04,Yes,100.0
+Male,19,High School,39146.62,Yes,54.35,93.62,65.65,9.49,2,None,9.99,No,78.43
+Female,14,Graduate,51340.67,Yes,30.0,94.88,69.07,3.63,2,Moderate,8.42,No,52.63
+Female,18,Graduate,32978.35,Yes,71.79,68.22,83.87,8.93,7,Low,13.69,Yes,72.84
+Male,16,Graduate,49817.0,Yes,57.73,97.65,57.01,9.0,1,Low,7.46,Yes,93.9
+Female,16,Diploma,31850.81,No,59.78,94.94,92.62,5.58,0,Moderate,11.64,Yes,81.89
+Female,14,High School,40786.81,No,81.17,71.43,92.92,0.59,0,Low,10.86,No,75.69
+Female,18,Postgraduate,27261.6,Yes,64.74,91.44,65.82,2.07,0,Moderate,11.7,No,72.53
+Male,14,Graduate,47508.37,Yes,71.57,82.2,75.37,9.61,2,None,12.4,Yes,89.22
+Male,16,Graduate,48299.31,Yes,100.0,79.38,63.23,8.76,3,Low,7.58,No,100.0
+Female,17,Graduate,30420.79,No,62.54,83.07,75.29,7.31,0,None,6.32,Yes,81.62
+Female,16,Graduate,37745.29,Yes,75.97,70.12,95.35,0.25,2,Moderate,12.48,No,63.42
+Female,17,Graduate,46730.72,No,48.61,98.05,74.65,6.26,3,None,8.73,No,72.6
+Female,19,High School,32177.9,Yes,80.52,89.07,87.67,8.63,5,None,12.16,No,88.2
+Male,17,Graduate,48267.62,Yes,78.17,70.19,55.09,8.25,2,Moderate,10.84,No,72.27
+Female,14,Graduate,42559.81,Yes,86.76,84.56,62.14,6.56,2,Low,15.42,No,85.64
+Male,19,Diploma,45091.73,Yes,91.87,95.62,81.66,9.63,2,None,13.63,Yes,100.0
+Female,17,Diploma,41051.9,Yes,55.15,87.44,50.8,1.73,1,None,10.33,No,65.66
+Male,15,Diploma,46279.06,Yes,72.4,76.24,62.16,4.24,5,None,14.06,No,69.59
+Male,17,Diploma,49569.71,Yes,90.92,98.14,93.23,3.9,0,Moderate,11.73,Yes,98.55
+Male,16,Diploma,29517.71,Yes,74.04,90.36,53.7,2.02,2,Moderate,3.85,Yes,64.77
+Female,19,High School,47605.07,Yes,81.12,79.42,90.79,6.68,1,Low,10.9,Yes,91.45
+Male,14,Diploma,37141.48,Yes,75.1,95.69,51.53,0.34,1,None,8.34,Yes,64.57
+Female,16,Graduate,30740.73,No,56.19,85.41,87.59,1.56,3,None,6.66,No,53.02
+Male,18,Postgraduate,45752.04,No,65.37,62.24,83.82,6.22,0,None,11.66,No,79.89
+Male,16,Diploma,37194.74,Yes,60.74,99.29,70.78,9.11,1,Moderate,7.63,Yes,78.54
+Female,15,Diploma,57497.49,No,85.09,60.05,93.8,0.92,2,Moderate,11.14,No,77.18
+Male,18,Diploma,50881.35,Yes,83.72,84.37,50.09,5.85,2,Low,8.75,Yes,83.8
+Female,17,Graduate,63548.87,Yes,76.2,87.46,83.22,5.09,1,High,7.92,Yes,90.0
+Male,18,Diploma,32636.2,Yes,77.85,83.83,92.58,7.22,3,Moderate,12.6,No,92.22
+Female,17,Diploma,34927.88,Yes,75.62,81.44,99.55,3.26,2,Low,13.47,Yes,89.47
+Female,16,High School,32809.05,Yes,70.84,62.59,58.03,5.69,3,None,8.01,No,63.26
+Male,14,High School,35964.54,Yes,43.67,88.39,69.25,0.05,1,None,10.4,Yes,68.61
+Female,14,Graduate,44160.91,Yes,44.8,97.8,95.1,5.51,3,High,11.88,Yes,73.11
+Male,16,Graduate,42477.92,Yes,55.85,89.35,70.12,0.6,0,Moderate,13.11,Yes,68.07
+Female,15,Diploma,39552.91,No,78.5,68.94,82.65,6.11,1,Moderate,8.31,No,71.25
+Female,17,Graduate,19206.97,Yes,67.08,91.03,82.44,1.79,0,High,5.38,Yes,76.2
+Male,16,Diploma,41803.95,Yes,37.18,92.88,83.8,8.63,2,Low,11.94,No,71.5
+Male,14,Diploma,22801.04,No,55.74,61.08,60.05,1.45,3,None,7.82,No,61.36
+Female,18,Diploma,34137.11,No,71.67,74.47,52.71,7.02,1,Low,10.22,No,75.09
+Female,16,Graduate,33611.03,Yes,83.62,62.49,91.01,8.11,0,None,9.17,No,91.39
+Male,17,Diploma,55723.84,Yes,75.68,92.88,79.64,8.81,1,Low,3.1,No,73.17
+Male,17,Diploma,39703.18,Yes,61.88,93.0,96.59,4.54,3,Low,10.78,Yes,80.88
+Male,16,High School,24640.05,Yes,79.91,61.95,72.69,1.44,1,Moderate,8.02,No,67.05
+Female,14,Graduate,34152.7,No,92.67,88.88,96.85,7.01,4,None,12.93,Yes,95.35
+Male,16,Diploma,36154.35,Yes,69.69,83.56,72.05,0.87,1,Low,12.61,No,88.2
+Male,17,Graduate,43803.47,Yes,55.21,78.51,55.21,3.16,0,None,7.08,Yes,61.48
+Female,18,High School,47190.88,Yes,60.12,89.91,59.83,6.49,2,None,8.19,Yes,68.65
+Female,15,Diploma,39722.94,No,44.6,87.92,75.19,5.86,0,None,8.59,Yes,74.22
+Female,18,Diploma,48114.73,Yes,87.71,66.81,74.83,7.41,5,High,10.98,Yes,87.56
+Female,17,High School,46519.09,Yes,38.06,94.58,70.95,6.38,2,Low,6.96,Yes,65.11
+Female,15,High School,42126.04,Yes,67.54,60.5,54.9,8.13,2,None,11.35,No,77.69
+Female,17,Graduate,52845.01,Yes,57.43,71.4,56.24,9.02,6,Low,10.77,Yes,74.71
+Male,17,Graduate,64391.01,Yes,78.57,82.6,55.83,2.57,4,None,10.64,Yes,78.44
+Female,19,High School,31541.22,Yes,75.69,61.13,91.8,6.16,2,Moderate,5.71,No,71.53
+Female,16,Postgraduate,44503.97,Yes,51.33,75.33,61.37,4.46,2,High,8.38,No,66.98
+Female,14,Diploma,34455.62,Yes,66.76,96.11,77.0,5.65,3,None,2.65,Yes,67.24
+Female,15,Diploma,39633.12,Yes,58.05,79.64,67.46,7.55,0,None,13.16,No,79.06
+Male,16,Graduate,40807.06,No,62.25,90.79,91.23,3.99,1,Low,9.62,Yes,79.66
+Male,18,High School,43455.0,Yes,82.11,71.52,87.71,3.83,1,None,10.0,No,89.78
+Female,15,Graduate,39451.61,Yes,77.92,78.36,76.19,8.31,2,High,14.01,Yes,100.0
+Female,14,Graduate,55035.93,Yes,77.1,89.04,79.65,5.29,3,Low,4.0,Yes,66.93
+Female,14,Postgraduate,42739.65,Yes,42.42,64.51,64.35,0.49,1,None,11.65,Yes,49.84
+Female,15,Diploma,61720.16,Yes,94.48,72.34,74.81,2.04,5,None,10.63,Yes,72.3
+Male,14,High School,54123.94,Yes,81.41,67.23,70.18,1.94,3,None,15.23,Yes,83.55
+Male,18,High School,35904.5,Yes,99.27,93.23,63.47,9.53,1,None,11.02,No,100.0
+Female,17,High School,37732.08,Yes,76.04,84.46,73.35,8.34,4,Low,11.06,No,81.99
+Male,17,Diploma,46820.24,Yes,66.89,72.63,69.56,8.64,2,Moderate,11.07,No,81.11
+Male,19,Postgraduate,35421.04,Yes,90.46,86.11,92.76,2.18,2,None,14.61,No,86.06
+Male,15,Diploma,53327.07,Yes,60.27,70.73,73.45,5.22,2,None,7.64,No,63.15
+Female,16,Diploma,26349.95,Yes,47.06,74.19,52.3,8.08,3,High,12.27,No,73.24
+Female,18,High School,49593.49,Yes,67.23,65.17,51.38,0.69,2,Moderate,9.6,No,52.25
+Female,19,Graduate,37377.55,Yes,73.68,87.88,82.4,0.84,2,None,9.45,Yes,64.27
+Female,19,Graduate,39725.79,Yes,75.38,92.04,55.52,5.24,2,None,13.8,No,73.43
+Female,19,Postgraduate,40036.08,No,73.5,83.79,57.61,1.88,1,None,16.5,No,78.64
+Female,18,Graduate,43146.43,No,41.02,62.6,62.22,4.16,3,None,12.44,Yes,56.46
+Male,17,Graduate,49328.56,Yes,44.72,96.12,58.33,8.32,2,Low,10.85,No,71.67
+Male,17,Graduate,49831.62,Yes,69.21,83.15,81.61,8.28,2,None,9.17,Yes,83.02
+Female,14,Diploma,37356.57,Yes,74.69,78.69,66.04,6.04,1,High,8.48,No,70.13
+Male,15,High School,44196.1,No,96.73,78.5,68.51,8.1,3,Low,11.38,Yes,88.53
+Male,15,Diploma,39797.12,Yes,85.47,66.27,63.21,5.63,1,Low,10.24,No,84.98
+Male,15,High School,46016.3,Yes,48.78,97.25,61.14,9.34,2,Moderate,6.46,Yes,73.55
+Male,14,High School,46613.27,No,83.36,75.11,78.48,1.02,1,Moderate,11.07,No,76.6
+Male,19,Diploma,31200.42,Yes,83.96,67.6,74.16,9.42,3,None,9.86,No,88.0
+Female,16,High School,43299.11,Yes,61.12,73.16,55.79,1.0,2,None,10.77,Yes,63.1
+Female,19,Postgraduate,44150.7,No,65.8,79.65,89.33,1.49,2,None,16.48,Yes,82.92
+Male,16,Diploma,20050.21,Yes,85.45,98.02,77.83,3.76,3,None,10.09,Yes,81.44
+Female,19,Graduate,26798.82,No,69.93,87.91,99.89,8.77,5,High,4.56,Yes,71.04
+Male,16,High School,42665.36,Yes,49.75,63.85,51.25,8.19,1,None,11.37,No,69.81
+Female,17,High School,41233.46,No,58.83,91.11,78.75,1.43,2,None,13.52,No,60.16
+Male,19,Graduate,28597.89,Yes,47.5,93.58,64.85,1.58,4,Moderate,14.41,No,69.35
+Female,17,Diploma,40730.83,Yes,73.51,66.65,59.13,5.53,4,None,8.39,No,65.98
+Female,14,Graduate,37854.4,Yes,33.08,87.27,61.24,3.39,1,None,17.53,Yes,68.63
+Male,19,Graduate,39227.3,Yes,70.65,61.96,80.79,8.47,1,None,11.02,Yes,82.73
+Female,15,High School,31306.01,Yes,66.77,70.64,63.96,9.41,4,None,8.52,Yes,78.35
+Female,19,Diploma,52652.13,Yes,91.93,97.09,87.38,8.91,1,None,10.4,No,88.57
+Male,14,Postgraduate,45200.76,Yes,80.81,78.73,75.73,9.55,3,Low,10.38,Yes,84.04
+Male,16,High School,35207.25,No,74.75,83.55,84.46,8.27,2,None,11.65,Yes,93.71
+Female,14,High School,49031.56,No,59.25,76.58,61.25,9.52,1,Low,7.16,Yes,81.01
+Male,17,High School,50710.21,Yes,62.11,99.43,92.72,3.74,2,Moderate,5.1,No,61.45
+Female,19,Diploma,31798.54,No,62.88,69.08,89.84,4.86,3,None,13.05,Yes,79.32
+Male,19,Diploma,53143.19,Yes,87.15,88.19,54.6,7.89,1,Low,11.53,No,73.6
+Male,19,Diploma,45676.21,Yes,65.8,72.74,63.57,0.65,3,Moderate,8.59,Yes,67.43
+Male,17,Postgraduate,41055.53,Yes,93.26,95.61,93.29,2.18,4,Low,11.71,Yes,90.83
+Female,14,High School,51121.26,Yes,73.85,78.94,87.85,5.69,2,None,5.98,Yes,75.55
+Male,15,Postgraduate,46790.79,Yes,51.56,81.06,53.36,5.24,0,Low,6.88,Yes,69.92
+Male,19,Graduate,45767.35,Yes,35.86,73.31,55.0,9.39,3,Low,12.92,Yes,76.23
+Female,15,High School,56986.19,Yes,83.61,97.23,70.94,7.52,0,Moderate,15.39,Yes,100.0
+Male,17,Graduate,30692.16,Yes,87.8,63.92,58.1,9.49,3,None,4.95,No,79.12
+Male,15,High School,41500.82,Yes,75.41,66.34,55.33,9.61,0,Low,13.11,Yes,91.51
+Female,18,Diploma,31022.25,Yes,55.59,89.37,96.05,5.63,2,None,9.87,Yes,76.81
+Male,18,High School,42860.02,Yes,81.3,81.77,58.67,3.59,0,Low,11.85,No,72.19
+Female,14,Postgraduate,48856.06,Yes,46.14,63.76,87.07,0.92,1,None,11.82,Yes,69.35
+Male,18,High School,15444.43,Yes,70.94,67.36,76.14,7.46,3,Low,8.38,Yes,68.16
+Male,18,Diploma,34306.89,No,78.58,85.64,89.33,1.43,2,Low,9.71,Yes,82.32
+Female,18,Diploma,42847.2,No,85.87,99.84,66.24,1.25,2,None,10.43,Yes,85.6
+Male,14,High School,48237.85,Yes,60.77,88.71,81.37,9.46,0,Moderate,9.52,No,74.61
+Male,14,Diploma,50333.49,Yes,65.36,82.81,51.93,1.26,3,Low,10.59,Yes,48.5
+Male,19,Diploma,25773.95,Yes,75.34,88.45,51.67,8.28,1,None,11.28,Yes,84.74
+Male,19,High School,41719.94,Yes,73.9,68.24,55.55,7.86,1,Low,6.47,Yes,80.27
+Female,16,Diploma,27649.51,Yes,86.89,71.04,91.88,3.59,2,Low,14.26,No,84.16
+Female,19,Diploma,39862.27,Yes,78.5,74.46,55.29,4.1,3,Moderate,13.42,No,69.95
+Male,17,Diploma,20510.27,No,61.66,81.97,81.61,6.48,0,Moderate,8.41,Yes,79.18
+Female,14,Graduate,44818.83,Yes,62.67,99.52,71.05,2.13,2,None,7.6,Yes,69.32
+Female,15,Graduate,37257.73,Yes,63.5,76.19,92.84,5.84,2,Moderate,9.07,Yes,80.79
+Female,14,Diploma,32032.43,No,57.21,72.19,68.1,6.36,2,Moderate,4.53,No,55.16
+Female,15,Graduate,41171.04,No,36.5,90.87,59.0,6.7,3,None,13.63,Yes,67.03
+Male,16,Postgraduate,22098.9,Yes,83.43,65.45,61.0,0.93,1,High,11.58,No,72.71
+Male,19,Diploma,44544.25,Yes,90.58,61.63,83.52,4.12,3,Low,9.33,Yes,88.0
+Male,15,Postgraduate,28807.14,Yes,45.14,65.43,74.31,2.79,3,None,17.08,Yes,67.43
+Female,18,Graduate,51026.68,Yes,98.35,91.07,65.5,9.95,1,High,7.69,No,87.25
+Female,17,High School,29243.38,Yes,76.02,94.14,71.06,4.17,3,None,8.73,No,76.61
+Male,17,High School,36648.68,Yes,80.75,90.44,69.41,4.94,0,High,11.32,Yes,84.61
+Female,19,Diploma,59437.22,Yes,66.32,74.16,53.73,9.82,2,None,10.93,Yes,83.11
+Female,18,High School,23995.62,No,55.06,97.24,84.91,5.47,2,Low,15.24,Yes,79.39
+Female,15,Diploma,39225.54,Yes,82.93,78.45,76.33,5.5,1,None,7.94,Yes,89.54
+Female,17,Graduate,38988.55,Yes,52.73,84.91,58.0,8.73,2,None,9.88,Yes,73.38
+Female,16,Diploma,61887.84,Yes,49.45,95.0,64.34,3.55,1,High,7.87,Yes,67.91
+Female,15,High School,41360.76,Yes,69.57,75.33,92.55,1.34,2,Moderate,16.45,Yes,84.05
+Female,19,Diploma,43290.58,Yes,79.3,72.77,95.19,6.14,2,Moderate,13.32,No,77.18
+Male,15,Diploma,42740.52,No,56.43,81.39,70.63,6.25,2,High,12.75,No,69.16
+Female,19,Diploma,47194.75,Yes,71.29,96.1,86.08,5.01,3,Low,8.47,Yes,81.5
+Male,16,High School,37584.26,Yes,86.05,62.33,80.89,0.11,3,Moderate,12.22,Yes,76.87
+Male,18,Postgraduate,42927.87,Yes,88.18,92.41,53.83,5.6,4,High,9.7,Yes,82.92
+Male,18,High School,52841.25,Yes,68.19,84.94,78.91,8.9,3,High,14.74,No,79.2
+Female,15,High School,36094.99,No,66.76,67.72,86.82,5.92,1,High,10.12,No,65.87
+Male,19,Postgraduate,39853.86,Yes,40.97,67.71,51.13,1.81,1,Low,6.48,No,39.84
+Female,15,Graduate,30378.78,Yes,68.22,77.42,63.41,5.78,0,Moderate,10.54,No,77.38
+Male,18,Graduate,51050.46,Yes,93.45,76.69,99.06,4.06,2,Low,10.15,No,87.95
+Male,15,High School,22607.68,Yes,53.56,89.35,50.05,4.91,3,Moderate,11.03,No,54.51
+Male,16,Diploma,44730.77,Yes,75.78,72.1,71.48,6.54,2,Low,11.01,No,69.07
+Female,18,Diploma,34072.56,No,61.29,84.57,50.61,3.64,3,High,5.14,Yes,70.62
+Female,18,Graduate,55151.47,Yes,62.57,78.08,73.69,6.45,3,None,10.64,No,74.5
+Female,15,Diploma,27330.48,Yes,56.94,90.82,90.1,7.33,0,Low,13.01,Yes,92.55
+Male,17,Diploma,40690.52,No,65.02,76.09,87.01,2.44,4,Low,10.89,No,72.91
+Female,15,Diploma,28075.61,Yes,80.0,90.27,89.81,1.49,3,None,6.01,Yes,75.69
+Female,15,Diploma,41243.41,Yes,89.84,63.09,69.91,0.71,1,None,10.13,Yes,74.41
+Male,19,Graduate,24554.27,Yes,56.29,92.41,87.72,7.17,2,None,12.52,Yes,86.19
+Female,14,High School,44309.31,Yes,65.18,68.43,56.54,0.67,2,Moderate,5.38,Yes,53.48
+Male,16,Diploma,47676.21,Yes,68.69,93.71,58.42,6.98,2,None,5.42,No,67.63
+Male,18,Diploma,35184.11,Yes,91.01,85.56,78.26,3.38,1,Low,7.97,No,77.81
+Female,16,Postgraduate,40959.8,Yes,78.75,71.43,70.19,4.13,1,Moderate,6.62,Yes,71.26
+Male,16,Diploma,43423.1,Yes,100.0,86.4,57.62,2.62,0,Low,11.67,Yes,89.58
+Female,15,High School,32626.05,Yes,49.85,86.9,62.79,8.77,1,High,10.79,Yes,75.0
+Female,15,High School,37993.57,Yes,68.35,93.9,72.52,3.38,2,Low,10.0,Yes,81.82
+Male,18,High School,32051.04,No,82.33,80.56,92.0,2.05,1,Moderate,10.8,No,81.41
+Female,18,Graduate,51646.97,No,78.41,87.12,71.31,2.39,2,Low,16.18,No,80.93
+Male,19,High School,36899.92,Yes,61.42,81.77,96.21,7.19,4,Moderate,11.93,Yes,83.48
+Male,18,High School,41907.48,No,62.4,93.98,67.93,7.44,0,None,9.16,Yes,87.97
+Female,14,Graduate,49170.22,No,79.57,92.88,79.71,1.23,1,Moderate,13.73,No,87.8
+Female,18,Graduate,40455.87,Yes,70.73,83.7,55.04,5.5,1,Low,13.78,No,91.39
+Male,15,Diploma,36939.06,Yes,82.25,92.48,63.87,7.35,0,Low,8.81,No,83.22
+Male,16,High School,40577.83,Yes,86.02,89.16,76.32,7.47,0,None,6.7,No,79.3
+Female,14,High School,54195.22,Yes,81.32,68.51,75.96,7.21,3,None,14.83,No,85.91
+Female,17,Diploma,42363.67,No,40.56,64.43,56.07,8.03,2,None,12.18,Yes,65.83
+Male,15,Graduate,42896.18,No,58.37,62.56,70.95,9.85,1,Moderate,7.02,Yes,85.25
+Male,14,Graduate,44740.81,No,49.32,98.68,95.04,1.52,1,Moderate,16.25,No,77.1
+Female,17,Postgraduate,51273.61,Yes,76.38,92.81,50.96,8.09,2,Low,7.39,Yes,83.31
+Female,18,Diploma,37925.38,Yes,75.45,95.83,59.69,2.03,4,Moderate,7.15,Yes,70.68
+Male,14,Graduate,39930.12,Yes,71.62,94.11,91.5,6.64,2,None,9.23,Yes,87.35
+Male,15,Graduate,30416.49,Yes,44.88,64.68,77.56,2.57,2,None,5.09,Yes,52.73
+Male,17,Postgraduate,31798.43,Yes,93.79,75.03,80.86,3.95,0,Moderate,8.83,Yes,85.08
+Female,19,Graduate,25315.33,Yes,79.41,71.56,50.04,6.49,2,None,10.35,Yes,69.9
+Female,15,Diploma,22896.52,Yes,55.83,99.37,63.45,6.38,2,Low,10.21,Yes,75.65
+Male,19,High School,44628.59,Yes,68.62,60.91,65.71,0.3,4,Low,17.65,No,61.13
+Female,18,Postgraduate,41230.41,No,77.75,85.99,76.24,6.14,1,Low,13.99,No,86.16
+Female,15,Diploma,35257.48,Yes,96.33,60.79,61.83,1.05,0,None,7.61,No,76.48
+Male,14,High School,52754.71,Yes,90.88,83.83,51.35,2.67,2,None,9.27,No,73.37
+Female,17,Graduate,33225.66,Yes,70.23,60.53,55.47,9.56,1,Moderate,7.52,No,81.12
+Female,16,Graduate,58849.93,Yes,65.22,77.66,84.91,2.45,0,None,9.69,Yes,79.55
+Male,19,Graduate,27867.01,Yes,91.35,70.05,68.28,0.08,1,Moderate,9.72,No,65.34
+Female,19,Graduate,43737.57,Yes,44.43,80.29,88.2,6.69,3,High,10.91,No,65.79
+Female,14,Diploma,35995.41,Yes,83.2,64.58,92.12,5.7,1,Low,15.71,No,97.25
+Male,17,Graduate,37736.34,Yes,66.16,63.65,96.99,5.63,3,None,6.8,Yes,70.57
+Female,14,Graduate,45379.26,Yes,45.07,87.29,50.66,2.73,1,None,14.15,Yes,67.67
+Female,19,High School,29164.14,Yes,82.49,85.38,64.51,2.51,2,None,10.36,Yes,73.57
+Female,15,High School,51984.6,Yes,78.91,71.41,86.15,2.92,2,Moderate,11.8,No,78.91
+Female,18,Graduate,34273.2,Yes,76.92,74.71,69.06,3.87,2,Low,9.78,No,61.41
+Female,15,High School,50583.53,Yes,70.2,88.32,87.64,1.99,5,High,9.51,Yes,69.82
+Male,15,Diploma,52173.95,Yes,86.09,61.96,69.23,9.52,3,None,13.22,Yes,92.17
+Male,19,Diploma,49396.24,Yes,60.25,61.1,88.26,0.98,4,None,6.46,Yes,57.55
+Female,16,Postgraduate,50425.45,Yes,57.56,85.22,87.66,2.81,2,Low,8.13,Yes,74.42
+Male,15,Graduate,24582.2,Yes,76.75,92.54,91.69,6.19,1,Low,10.32,No,80.82
+Female,19,Graduate,34643.68,Yes,50.0,83.56,98.26,5.95,1,None,12.89,No,70.51
+Female,18,Graduate,40494.26,Yes,59.4,89.86,59.89,5.75,2,Moderate,13.72,Yes,77.11
+Male,14,Diploma,35975.48,Yes,58.67,97.0,63.78,0.47,1,Moderate,9.55,No,71.63
+Female,15,Graduate,44040.09,Yes,72.65,93.53,54.42,5.49,0,Low,7.08,Yes,78.21
+Male,16,High School,54744.39,Yes,91.57,80.91,71.03,1.06,2,None,9.85,No,81.4
+Male,17,Graduate,42824.11,Yes,75.88,92.0,90.93,2.31,2,Low,10.03,Yes,79.17
+Female,14,High School,29945.47,Yes,92.28,70.63,63.19,7.36,6,Moderate,9.56,Yes,85.52
+Male,18,High School,51637.15,Yes,49.69,86.68,91.19,7.5,2,Low,12.85,No,83.45
+Female,16,Postgraduate,47242.29,Yes,64.59,60.14,98.09,6.28,3,Low,12.18,Yes,82.99
+Female,17,Postgraduate,51117.13,No,54.77,99.51,86.32,1.14,5,Low,11.58,No,69.83
+Male,16,High School,36431.85,Yes,81.34,72.99,67.59,2.25,1,None,10.26,No,65.1
+Female,15,Diploma,47869.44,Yes,73.21,87.26,52.83,4.57,2,High,14.64,Yes,85.79
+Female,17,High School,43298.61,Yes,82.59,97.19,59.99,7.09,2,None,7.85,No,87.31
+Male,17,Diploma,50231.22,Yes,79.28,81.3,70.79,3.97,0,Moderate,11.29,Yes,86.68
+Male,14,Graduate,68764.41,Yes,53.43,77.41,52.47,8.62,3,None,6.74,No,69.34
+Male,16,Graduate,51119.83,Yes,86.28,74.6,93.86,2.24,2,Low,15.54,Yes,87.03
+Female,18,Graduate,34761.35,Yes,67.54,70.65,77.53,8.7,4,None,12.73,No,83.54
+Female,16,Graduate,36355.06,Yes,68.48,76.14,87.65,0.53,3,Low,11.17,No,69.94
+Female,19,Graduate,24584.21,Yes,67.23,83.46,96.68,6.28,1,Moderate,9.43,No,77.85
+Male,17,Graduate,29864.68,Yes,51.38,79.04,78.6,8.96,2,High,3.81,Yes,69.34
+Female,17,High School,54922.8,Yes,78.48,61.81,95.53,0.72,2,Low,4.08,Yes,64.1
+Female,17,Postgraduate,38305.11,Yes,64.73,67.0,74.18,8.48,3,Low,8.89,Yes,79.77
+Male,18,High School,20757.76,Yes,68.53,95.05,54.23,3.57,3,Moderate,10.01,Yes,68.47
+Female,14,Graduate,42894.64,Yes,67.63,66.32,85.97,9.36,0,None,11.49,Yes,86.15
+Male,18,Diploma,33115.49,Yes,49.51,61.71,60.77,5.71,3,None,9.88,Yes,63.79
+Male,19,Diploma,41162.09,Yes,71.05,77.42,69.61,3.43,3,None,9.46,No,71.25
+Female,17,Graduate,35879.6,Yes,65.52,61.3,84.82,9.81,4,Low,11.89,No,87.97
+Female,15,High School,46607.05,Yes,83.99,80.92,50.11,8.0,3,None,8.48,Yes,85.84
+Male,18,High School,47249.14,Yes,45.28,86.55,56.01,1.5,2,Low,7.13,Yes,56.35
+Male,17,Diploma,48942.18,Yes,59.98,72.4,68.72,1.74,4,None,11.8,Yes,65.24
+Male,15,Graduate,30107.63,Yes,70.02,82.45,84.49,3.65,1,High,10.77,No,73.71
+Male,15,Graduate,34706.15,Yes,53.51,61.91,58.2,1.15,0,Low,8.65,Yes,55.21
+Male,17,High School,39996.99,Yes,78.48,93.33,64.04,7.98,1,Low,8.85,No,82.49
+Male,17,High School,27058.36,No,73.8,89.37,74.49,9.63,2,None,8.46,Yes,100.0
+Female,16,High School,38606.88,Yes,56.66,95.9,79.68,0.21,2,Moderate,6.22,Yes,57.07
+Female,19,Graduate,44535.06,Yes,66.48,93.57,90.61,8.32,0,None,8.42,No,75.54
+Male,16,High School,57758.21,Yes,81.36,64.13,81.9,1.23,0,None,12.09,Yes,72.39
+Male,16,Postgraduate,29429.07,Yes,85.96,74.21,93.21,8.34,1,Low,2.07,Yes,90.39
+Male,17,High School,35479.92,Yes,71.82,85.32,50.35,9.94,2,None,6.54,No,74.7
+Male,18,Diploma,56855.22,Yes,70.1,80.94,52.87,4.19,2,Low,7.52,Yes,66.52
+Female,18,Postgraduate,22031.9,Yes,71.63,63.37,96.65,1.52,0,High,8.18,Yes,76.76
+Female,14,High School,49910.68,Yes,64.62,73.41,56.86,6.29,2,Low,15.69,No,86.84
+Male,16,High School,40974.9,Yes,55.35,99.94,73.86,2.66,3,Low,14.06,No,70.24
+Male,16,Postgraduate,33833.51,Yes,67.83,75.59,60.06,2.18,1,Moderate,17.27,Yes,79.26
+Female,16,Graduate,35511.86,Yes,75.41,96.66,74.13,6.17,1,Low,7.81,No,84.92
+Female,14,Diploma,36469.95,Yes,62.44,98.18,53.85,3.36,0,Low,6.93,Yes,71.46
+Male,19,High School,40921.85,Yes,65.13,92.37,80.05,3.06,3,Moderate,13.42,Yes,78.96
+Male,14,Graduate,47786.57,Yes,80.67,95.19,94.78,3.67,1,Low,10.65,No,94.73
+Male,15,Graduate,36785.26,Yes,90.74,83.36,77.38,3.08,0,Low,10.79,Yes,85.38
+Female,16,High School,40890.74,No,54.88,81.26,59.25,0.05,1,Low,10.29,Yes,62.73
+Male,14,High School,51568.04,Yes,77.44,88.96,67.46,1.55,1,High,4.03,No,66.47
+Male,18,Graduate,55769.08,Yes,60.98,73.44,73.76,0.75,1,Moderate,6.16,Yes,56.68
+Male,15,Postgraduate,47696.83,Yes,74.34,97.26,57.0,5.91,1,Moderate,8.34,No,71.67
+Female,18,High School,29630.25,Yes,74.53,63.67,85.7,0.78,4,Low,7.96,No,57.62
+Male,17,Postgraduate,17356.19,Yes,59.69,72.78,81.26,9.66,3,Low,8.67,Yes,76.61
+Male,14,Diploma,40525.53,Yes,63.7,87.13,58.13,8.34,2,None,11.6,Yes,88.56
+Female,17,Diploma,63116.15,Yes,60.36,73.74,68.04,6.37,3,None,10.5,Yes,75.0
+Male,15,Graduate,25680.39,Yes,46.49,95.4,54.5,4.88,2,None,8.73,Yes,69.39
+Female,15,High School,49214.76,Yes,57.96,74.43,72.81,1.85,3,Low,10.19,No,60.18
+Female,14,Graduate,33287.82,Yes,61.79,94.97,60.65,0.25,2,None,7.93,Yes,63.24
+Female,17,Diploma,48835.53,Yes,78.3,87.76,80.78,8.59,3,None,12.82,Yes,92.09
+Female,14,High School,39041.45,Yes,61.34,69.62,52.01,2.42,2,None,12.66,No,72.4
+Male,14,Graduate,44122.6,No,67.31,89.47,72.3,8.53,0,Low,12.98,No,84.3
+Male,15,Graduate,43623.67,Yes,82.66,72.85,50.52,9.74,3,Low,12.22,No,87.36
+Male,14,Graduate,43081.96,Yes,86.94,92.66,75.13,4.01,1,None,8.48,No,76.2
+Male,17,Postgraduate,37725.46,Yes,71.61,68.48,87.84,0.46,5,Moderate,6.72,No,57.03
+Male,19,Graduate,44621.45,Yes,67.39,71.67,65.76,4.85,3,Low,9.91,No,78.5
+Male,14,High School,29583.21,Yes,67.49,93.38,75.9,9.77,1,None,13.78,Yes,96.54
+Female,18,High School,32113.8,Yes,89.68,64.63,59.78,9.07,3,Low,13.91,No,85.26
+Male,17,High School,38603.13,Yes,54.46,92.59,50.53,2.8,3,Moderate,6.64,No,54.13
+Male,17,Graduate,21984.39,Yes,87.17,98.63,84.22,4.26,1,None,4.77,Yes,80.99
+Male,18,Graduate,56050.37,Yes,58.67,95.31,94.08,1.64,3,Low,7.94,Yes,64.03
+Male,17,Diploma,44641.19,Yes,99.86,80.51,61.51,4.95,2,Low,12.6,No,85.64
+Female,17,High School,48141.51,Yes,58.35,78.18,92.5,3.72,3,Moderate,12.9,No,75.41
+Male,17,Graduate,58115.79,Yes,54.17,82.04,61.96,3.46,1,None,9.36,Yes,73.67
+Female,17,Postgraduate,59760.61,Yes,48.25,65.1,94.54,3.97,1,Moderate,8.14,No,59.29
+Male,19,Diploma,44269.71,No,66.09,67.21,91.65,9.62,1,Low,4.18,Yes,77.52
+Male,14,Graduate,23535.03,Yes,51.27,60.61,78.64,8.97,3,None,12.55,Yes,79.04
+Male,18,Postgraduate,26343.06,Yes,91.14,92.72,77.57,4.07,1,Low,7.58,No,74.21
+Female,16,Diploma,35420.08,Yes,49.48,83.37,71.22,2.0,1,None,6.51,No,58.9
+Male,14,Diploma,29286.47,No,77.35,99.06,92.47,0.19,2,None,9.55,No,80.81
+Male,15,Graduate,45720.65,Yes,63.88,75.58,66.59,3.84,4,None,12.73,No,75.0
+Female,18,High School,34451.38,Yes,75.73,88.66,86.61,1.29,2,High,7.86,Yes,76.24
+Male,18,High School,36551.42,Yes,53.76,96.04,84.56,5.89,3,Low,9.03,No,70.15
+Female,17,High School,37913.38,Yes,82.25,67.06,99.59,6.42,0,None,14.63,Yes,92.35
+Male,19,Diploma,29975.12,Yes,69.96,94.87,51.16,2.01,1,None,6.32,Yes,66.36
+Female,19,High School,31262.85,Yes,71.51,67.5,79.01,7.77,2,Moderate,12.51,Yes,86.19
+Female,16,Graduate,41547.34,Yes,78.14,73.99,57.86,6.2,4,High,9.46,Yes,74.29
+Female,18,Postgraduate,46658.9,Yes,57.9,75.61,59.9,4.92,1,Low,9.7,Yes,81.79
+Female,14,High School,42499.75,Yes,48.2,91.1,88.83,3.51,0,Low,5.68,Yes,65.14
+Male,19,Postgraduate,37677.02,Yes,82.89,74.22,55.98,0.53,1,None,12.06,Yes,86.7
+Female,17,Graduate,22899.71,Yes,59.74,76.69,99.99,5.31,3,Low,7.29,No,63.0
+Male,18,High School,64489.49,Yes,87.89,96.45,75.98,0.29,1,None,13.34,No,74.14
+Male,17,Diploma,42251.77,Yes,78.87,78.48,86.24,5.98,2,None,14.26,No,90.56
+Male,14,Graduate,35917.3,Yes,54.76,91.16,81.91,9.9,1,Moderate,13.88,Yes,100.0
+Male,14,Graduate,37387.59,Yes,57.89,69.1,53.52,8.69,2,Moderate,3.68,Yes,80.4
+Male,17,Diploma,38061.14,Yes,73.59,95.12,57.07,8.33,1,Low,9.06,No,84.48
+Female,19,Postgraduate,54566.71,Yes,84.69,96.72,71.51,9.75,0,High,13.11,No,100.0
+Female,14,Diploma,39596.56,Yes,67.2,61.18,68.99,2.29,1,None,10.69,Yes,73.98
+Male,14,Diploma,36881.06,No,64.87,94.03,99.49,6.1,2,Low,10.27,Yes,85.22
+Female,14,Graduate,25199.89,Yes,55.76,72.92,57.46,4.19,4,Low,14.76,Yes,72.29
+Female,16,High School,44540.86,Yes,55.88,76.74,79.14,6.72,0,Low,9.32,No,66.45
+Female,17,High School,33435.2,No,65.16,63.69,93.12,1.22,3,None,14.8,Yes,76.42
+Female,18,Graduate,61080.31,Yes,54.7,81.03,97.31,4.72,3,Moderate,8.97,No,67.53
+Female,15,Postgraduate,46504.82,Yes,70.95,94.12,66.92,5.91,2,None,8.68,Yes,74.98
+Female,16,High School,34899.89,Yes,81.85,99.28,63.07,8.78,1,None,11.71,Yes,99.79
+Female,17,Diploma,37423.38,Yes,87.86,91.24,79.78,6.65,2,Low,12.12,Yes,98.74
+Male,17,Diploma,29705.23,Yes,64.45,81.94,98.52,0.42,0,None,5.58,No,52.27
+Female,17,Graduate,53317.34,Yes,77.51,74.09,59.34,8.86,0,Low,6.61,Yes,82.47
+Female,15,Postgraduate,49750.45,Yes,77.23,60.6,72.21,0.61,2,None,12.12,No,59.86
+Male,17,Graduate,44573.07,Yes,52.84,72.57,77.36,5.05,2,Low,13.81,No,68.0
+Female,14,Postgraduate,38889.26,Yes,82.01,88.29,86.61,3.7,1,High,4.66,Yes,75.7
+Male,19,Postgraduate,28433.75,Yes,63.98,77.07,72.01,7.71,4,Low,9.64,No,64.83
+Female,16,Graduate,50226.34,Yes,51.29,86.91,90.73,3.77,2,None,9.32,Yes,59.48
+Male,19,Diploma,47040.8,Yes,41.53,83.86,57.36,7.6,3,Moderate,9.49,Yes,69.03
+Male,15,High School,25742.89,Yes,75.95,94.69,92.7,9.62,0,None,12.21,No,96.04
+Female,16,Diploma,43066.81,Yes,64.73,81.16,79.17,9.86,1,None,10.82,No,87.1
+Female,18,Graduate,39318.23,Yes,68.14,74.43,61.19,4.66,1,None,9.18,No,71.55
+Male,14,High School,41907.77,Yes,63.19,71.28,79.28,0.17,2,Moderate,9.78,Yes,64.51
+Female,19,Graduate,15646.99,No,86.4,96.52,76.96,1.4,1,Low,8.76,No,83.92
+Female,16,High School,37060.7,No,84.14,71.25,54.37,8.55,2,High,7.84,No,80.05
+Male,14,Graduate,45198.35,No,60.18,71.71,98.31,5.51,1,Low,6.2,Yes,77.37
+Male,18,Graduate,48063.34,Yes,60.62,90.58,53.4,4.69,4,Low,10.74,Yes,78.63
+Male,17,Diploma,24283.59,Yes,55.05,95.39,68.05,5.27,3,Moderate,6.84,No,64.18
+Male,18,Graduate,54631.75,Yes,60.03,92.79,78.51,4.86,2,None,14.54,Yes,86.64
+Male,14,Diploma,30647.72,Yes,64.02,72.06,96.07,9.94,1,None,12.87,Yes,100.0
+Male,14,Postgraduate,32420.61,Yes,71.49,94.97,62.22,8.14,0,None,10.48,Yes,94.68
+Female,17,High School,44756.67,Yes,63.75,90.62,68.43,6.39,0,Low,7.68,Yes,82.59
+Female,17,Diploma,54952.29,Yes,82.09,74.9,76.32,3.65,1,None,10.0,Yes,79.75
+Female,17,Diploma,66681.21,Yes,59.23,80.28,56.57,3.25,0,None,13.05,No,67.12
+Male,18,Graduate,24784.76,Yes,62.74,88.45,56.15,6.82,2,Moderate,10.63,No,75.81
+Female,15,Graduate,27246.67,Yes,77.11,94.11,65.73,4.54,2,Low,14.87,No,81.04
+Male,17,Diploma,33555.83,Yes,81.12,87.84,56.63,3.16,1,High,10.66,No,84.75
+Female,14,High School,23916.16,Yes,73.51,71.59,94.96,7.3,1,None,8.46,Yes,78.74
+Male,15,Diploma,47865.46,Yes,67.57,76.03,65.4,1.86,3,High,10.0,No,65.46
+Female,19,High School,31209.52,Yes,91.65,90.38,73.66,1.36,4,Low,5.55,No,71.02
+Female,18,Graduate,31321.8,Yes,78.95,72.8,84.87,0.99,3,Moderate,9.38,Yes,66.7
+Female,19,Diploma,16374.3,Yes,54.34,98.95,82.75,7.85,2,Low,9.81,Yes,87.96
+Female,17,Graduate,43147.49,No,66.26,79.05,93.94,3.56,1,None,6.97,Yes,73.22
+Female,19,Graduate,27593.37,Yes,49.91,67.83,85.75,8.59,0,None,13.84,Yes,89.25
+Female,16,Graduate,45572.84,Yes,49.4,98.15,61.57,8.83,4,None,4.52,Yes,68.44
+Male,16,Diploma,55196.11,Yes,49.79,95.91,64.0,2.66,0,None,10.31,Yes,70.95
+Male,17,Diploma,46697.52,Yes,76.36,69.64,92.28,0.2,3,None,7.13,Yes,60.24
+Female,17,Postgraduate,39334.94,Yes,69.73,87.48,62.14,3.13,3,Low,6.11,No,71.32
+Female,17,Diploma,58335.13,Yes,63.9,84.13,54.83,7.97,2,Low,12.12,No,81.27
+Male,15,Diploma,26221.93,Yes,96.83,87.16,94.93,9.5,1,None,8.79,Yes,100.0
+Female,17,Postgraduate,44623.17,No,67.93,78.53,53.49,5.47,3,Low,10.91,Yes,74.37
+Male,18,Diploma,36223.06,Yes,47.02,83.94,87.72,0.28,0,None,8.55,Yes,57.4
+Female,14,Diploma,46431.91,Yes,70.25,72.87,72.82,3.6,2,High,14.06,No,77.65
+Male,14,High School,42483.96,Yes,48.5,72.41,58.98,3.0,1,None,4.37,No,49.93
+Female,14,Diploma,44156.81,Yes,82.33,68.35,86.2,3.55,1,Moderate,6.99,Yes,72.01
+Female,18,Graduate,36203.41,Yes,59.07,60.59,78.34,3.86,2,Low,7.48,Yes,62.88
+Female,16,High School,21128.88,Yes,80.86,63.93,91.12,5.91,1,Low,8.32,Yes,75.64
+Male,18,High School,40934.22,Yes,81.09,75.02,87.5,1.85,1,Low,9.21,Yes,73.27
+Male,18,High School,24649.1,Yes,71.61,76.12,65.95,8.93,0,Low,13.61,Yes,100.0
+Female,18,High School,36552.6,No,72.72,83.73,76.72,1.6,3,High,4.98,Yes,61.8
+Female,16,High School,33622.89,Yes,80.87,87.11,85.08,3.22,1,Low,7.56,No,72.58
+Female,14,Graduate,56955.33,Yes,81.29,98.5,96.87,9.54,3,Low,1.84,No,85.01
+Female,17,Graduate,41826.96,Yes,44.88,97.89,66.57,2.84,0,None,4.82,No,54.25
+Female,17,Graduate,31572.22,Yes,100.0,63.79,84.29,1.26,0,None,10.85,Yes,79.95
+Male,15,Graduate,42068.8,Yes,76.1,62.09,52.41,4.78,1,None,4.02,No,71.3
+Male,18,Graduate,14302.14,Yes,48.18,71.25,51.37,7.6,2,Low,14.64,Yes,87.55
+Male,16,Diploma,41640.24,Yes,50.8,63.43,73.34,6.5,3,High,6.26,Yes,65.68
+Female,19,Diploma,35279.8,Yes,96.63,70.89,50.58,4.48,3,Moderate,9.75,Yes,86.2
+Male,16,Graduate,46242.49,Yes,75.12,66.45,81.84,6.29,2,High,10.72,Yes,78.67
+Male,15,Diploma,46408.91,Yes,60.05,98.91,55.03,8.43,1,Moderate,9.61,Yes,79.97
+Male,19,High School,45292.85,Yes,82.75,62.06,86.91,9.36,1,None,12.22,No,87.38
+Female,17,Graduate,32373.2,Yes,60.21,93.16,54.24,4.99,1,Low,5.73,Yes,65.47
+Male,17,Postgraduate,48561.48,Yes,64.56,78.55,62.18,3.38,3,None,7.62,No,63.39
+Female,15,High School,43322.23,Yes,57.22,65.86,54.22,5.94,3,None,15.42,No,68.79
+Female,18,Diploma,46902.47,Yes,78.38,88.99,63.75,9.44,0,Moderate,7.32,Yes,82.77
+Female,19,High School,37696.34,Yes,69.64,94.88,53.58,9.43,1,None,8.4,Yes,89.51
+Male,17,Postgraduate,45482.42,Yes,51.47,74.36,89.87,7.48,0,None,12.3,No,74.13
+Female,16,High School,29403.46,Yes,100.0,89.79,96.28,5.77,1,Low,10.06,Yes,97.08
+Male,14,Graduate,24707.6,Yes,68.77,63.29,68.75,7.86,4,Moderate,8.05,No,67.49
+Female,19,Diploma,42811.7,Yes,40.36,82.39,65.38,8.57,1,None,10.03,Yes,71.89
+Female,14,Diploma,52770.39,Yes,68.55,76.55,76.9,5.56,2,None,8.02,Yes,72.39
+Male,19,Graduate,30353.12,Yes,87.39,82.65,97.05,0.25,5,None,3.14,Yes,61.05
+Male,16,Graduate,41887.68,Yes,56.79,69.47,87.65,8.19,2,None,3.19,Yes,79.6
+Female,14,Postgraduate,35143.86,Yes,57.47,82.51,75.17,4.2,3,None,21.17,No,89.31
+Male,14,High School,46733.36,Yes,71.93,81.25,84.48,9.79,1,Moderate,14.0,No,100.0
+Female,18,Diploma,48379.39,Yes,58.33,64.58,81.07,4.97,1,None,10.88,Yes,76.3
+Male,17,Diploma,32473.8,Yes,81.02,87.98,73.99,0.71,2,None,9.97,No,76.75
+Female,18,Graduate,48129.19,Yes,75.03,60.93,58.21,2.01,2,Low,11.69,Yes,62.16
+Male,14,Diploma,34889.06,Yes,66.74,96.28,89.1,0.78,0,Moderate,9.05,Yes,70.06
+Female,19,High School,24744.32,Yes,64.49,87.45,60.83,9.58,2,Moderate,7.64,Yes,77.9
+Female,15,Diploma,28457.26,Yes,69.46,66.55,59.96,3.86,1,Moderate,8.64,Yes,74.95
+Male,17,Graduate,45450.18,Yes,67.92,64.75,99.84,8.96,1,Moderate,8.16,Yes,82.99
+Male,14,High School,50952.47,Yes,70.81,96.62,53.3,1.33,0,None,8.46,No,69.01
+Female,19,High School,29476.69,Yes,72.75,65.62,71.87,1.84,3,High,10.57,Yes,67.25
+Male,16,High School,57906.51,Yes,80.87,82.46,73.23,8.91,5,High,11.03,No,81.27
+Male,18,High School,19274.52,Yes,70.93,65.47,92.83,1.68,3,Low,8.65,Yes,65.77
+Female,18,Graduate,22765.1,Yes,62.43,80.65,79.88,9.29,2,Moderate,1.96,Yes,65.5
+Male,19,Diploma,20256.15,Yes,58.23,78.31,50.3,8.93,0,Low,8.53,Yes,82.82
+Female,14,High School,39532.96,Yes,68.7,65.0,85.44,7.89,3,None,14.67,Yes,93.73
+Male,16,Graduate,36297.21,Yes,92.19,76.34,59.14,1.34,0,Moderate,12.01,Yes,90.23
+Female,19,High School,33371.9,Yes,44.56,78.81,69.01,2.43,5,None,8.82,Yes,56.68
+Male,17,Diploma,34899.26,Yes,85.1,63.91,63.07,3.61,0,Moderate,14.17,Yes,88.79
+Male,15,Diploma,29595.94,Yes,62.71,91.79,50.05,9.9,1,None,10.18,No,76.48
+Male,18,High School,40874.58,Yes,91.0,94.78,71.86,3.06,6,None,9.16,No,68.76
+Female,16,High School,40177.94,No,78.93,91.71,51.86,2.91,3,None,7.35,Yes,81.49
+Male,14,High School,37358.86,Yes,76.49,86.24,83.47,7.12,3,Moderate,10.14,No,79.35
+Female,16,Graduate,61633.7,No,61.12,86.86,98.1,2.58,1,Moderate,13.27,No,78.83
+Female,14,Graduate,49921.03,Yes,91.96,82.9,53.16,3.93,2,None,5.8,Yes,81.73
+Male,18,Postgraduate,30532.81,Yes,66.42,73.08,59.71,1.2,4,Low,5.09,Yes,52.66
+Male,15,High School,77007.25,Yes,99.51,60.28,99.3,5.18,0,None,8.33,Yes,94.37
+Female,18,Diploma,34935.13,Yes,62.78,88.65,91.74,6.43,3,None,12.32,Yes,89.04
+Male,16,Graduate,39492.22,Yes,72.84,80.21,70.34,0.82,1,Low,10.18,No,67.17
+Male,15,High School,40174.59,Yes,71.4,80.03,83.02,1.23,0,None,9.9,Yes,72.16
+Male,16,Diploma,30658.43,Yes,68.3,90.75,93.14,6.57,5,Moderate,12.39,Yes,83.51
+Male,15,Diploma,52450.39,Yes,59.22,74.67,85.91,3.83,2,None,7.17,Yes,65.42
+Female,18,Graduate,41022.93,Yes,81.81,63.6,65.72,5.5,0,None,8.71,Yes,96.8
+Female,15,High School,42404.02,Yes,91.83,75.96,88.05,7.34,4,Moderate,9.64,No,77.58
+Female,17,Graduate,41351.73,Yes,50.19,72.95,83.22,8.84,1,None,10.93,Yes,86.81
+Female,19,Graduate,45193.12,Yes,70.92,62.26,87.73,8.01,0,Low,13.62,No,83.38
+Male,14,Diploma,46227.37,Yes,65.19,88.22,76.64,9.26,5,High,7.37,Yes,80.39
+Female,18,Graduate,41570.68,Yes,67.5,88.66,80.87,8.55,3,Low,8.81,Yes,88.95
+Male,15,High School,35279.86,Yes,78.43,86.02,64.3,8.38,2,None,5.62,Yes,85.52
+Female,15,Graduate,20558.76,Yes,44.93,61.16,77.61,3.98,5,None,5.82,Yes,56.05
+Male,15,Graduate,49428.57,Yes,52.04,91.55,71.17,7.9,3,None,10.16,No,77.19
+Male,18,Graduate,51860.13,No,54.4,81.2,81.09,8.32,2,Low,13.71,Yes,85.83
+Male,16,Diploma,45520.49,No,53.35,76.03,85.97,2.34,4,None,7.55,Yes,61.61
+Male,18,High School,41390.79,Yes,67.57,85.98,59.56,6.01,2,None,8.69,No,65.08
+Male,14,Graduate,37968.9,Yes,70.43,79.42,64.68,4.96,3,Low,7.07,Yes,67.33
+Female,17,Diploma,35211.88,Yes,63.6,70.4,70.91,3.03,2,None,17.53,No,66.07
+Male,14,High School,46501.69,Yes,73.57,94.64,52.74,1.09,3,Low,7.31,No,64.56
+Male,18,High School,43355.66,No,77.04,71.96,59.55,3.23,0,None,8.69,No,66.49
+Female,14,Diploma,34848.76,Yes,51.98,70.57,75.73,8.57,0,High,12.74,No,79.59
+Female,16,Graduate,48630.1,Yes,90.4,94.88,54.62,4.93,0,Low,11.63,No,88.88
+Male,19,Graduate,24937.29,Yes,98.53,71.48,54.64,2.98,2,Low,12.03,No,78.2
+Female,14,Postgraduate,54633.92,Yes,70.82,89.79,64.68,0.44,3,Low,7.39,Yes,60.88
+Male,18,Graduate,55531.57,Yes,73.87,97.64,83.08,3.81,1,Moderate,10.24,Yes,83.27
+Female,17,Graduate,47249.86,Yes,48.99,94.71,54.09,9.37,3,None,9.92,Yes,77.11
+Male,15,Graduate,50293.25,Yes,67.72,75.76,56.01,9.56,3,None,10.25,Yes,83.01
+Male,15,Postgraduate,44614.67,Yes,86.26,91.75,94.41,4.87,5,None,9.61,No,86.96
+Female,18,Graduate,33451.85,Yes,55.66,96.89,73.74,0.82,2,Low,11.62,Yes,74.74
+Male,19,Graduate,33862.19,No,72.84,65.31,78.94,1.56,7,Moderate,8.7,No,57.82
+Male,15,High School,37361.88,Yes,40.82,67.69,81.48,1.01,2,Low,10.55,No,50.11
+Female,17,High School,31621.8,Yes,76.73,73.48,56.26,7.22,1,Low,8.86,No,79.99
+Female,17,Graduate,48344.75,Yes,91.3,80.49,55.04,5.45,4,High,7.54,Yes,83.08
+Male,17,Diploma,36757.02,Yes,82.99,80.94,87.68,0.49,2,Low,8.82,Yes,71.8
+Male,14,Diploma,32446.59,No,48.25,63.5,90.95,7.22,3,Moderate,15.37,Yes,81.75
+Male,16,Diploma,40980.92,Yes,80.55,66.1,62.3,6.63,5,Moderate,13.06,No,73.03
+Female,19,Graduate,49449.86,Yes,63.02,91.84,65.7,0.82,2,None,15.45,Yes,76.11
+Female,17,Postgraduate,41716.98,No,78.06,99.84,83.5,5.94,3,Moderate,9.61,No,83.03
+Female,19,Diploma,44231.77,Yes,49.94,88.72,88.81,2.91,2,None,9.19,Yes,62.05
+Female,14,High School,34354.04,No,58.79,95.36,51.99,3.43,2,Moderate,12.46,Yes,79.2
+Male,18,Diploma,46647.05,Yes,64.17,85.67,88.15,2.1,1,Low,11.93,Yes,78.87
+Female,15,Diploma,36411.66,Yes,85.54,81.12,66.83,0.22,2,Moderate,12.24,Yes,90.2
+Female,14,High School,34928.65,Yes,75.05,74.9,94.6,8.91,2,Low,7.19,No,82.58
+Male,14,Diploma,26919.94,Yes,61.53,75.92,87.25,7.13,2,Low,10.61,Yes,73.08
+Male,15,High School,44549.56,No,73.46,88.96,65.5,9.62,1,High,9.19,Yes,92.2
+Female,16,Graduate,30064.51,Yes,83.86,89.41,74.03,3.68,3,None,12.38,No,82.71
+Male,15,High School,32166.12,No,72.77,86.27,80.95,4.03,5,Moderate,9.4,Yes,70.88
+Male,18,Graduate,42105.04,Yes,93.64,90.13,61.25,1.84,3,High,13.84,No,86.3
+Male,17,High School,43348.54,Yes,80.13,91.49,90.18,0.73,2,Moderate,14.81,Yes,77.36
+Female,16,Graduate,44442.85,Yes,68.21,76.72,76.91,3.76,5,None,10.36,Yes,69.17
+Male,15,Diploma,45486.19,No,56.9,94.15,73.89,7.26,1,None,9.45,No,71.89
+Male,19,High School,35739.23,Yes,66.25,91.25,91.64,6.48,2,Moderate,6.46,Yes,78.34
+Male,19,Diploma,18431.01,No,54.99,97.04,58.14,3.11,2,None,14.06,Yes,76.56
+Male,18,High School,26626.95,No,50.4,91.72,63.44,8.42,4,Moderate,7.4,No,65.96
+Male,14,Graduate,35320.52,Yes,68.7,70.13,53.22,2.52,3,None,10.71,Yes,67.53
+Male,15,Diploma,31431.43,Yes,52.97,68.1,65.47,5.5,2,Low,6.71,Yes,62.58
+Female,15,Diploma,32203.78,Yes,92.88,80.16,53.88,1.82,2,None,11.23,No,67.91
+Female,18,High School,48267.99,Yes,91.59,73.62,50.07,4.96,1,Low,5.35,No,76.77
+Male,14,Diploma,37758.42,Yes,87.26,85.55,95.68,1.94,3,Low,10.3,No,77.54
+Female,16,Diploma,36099.69,Yes,62.33,71.85,55.8,2.03,3,Moderate,12.23,No,56.9
+Male,16,Diploma,51053.68,Yes,69.23,70.21,62.37,1.92,0,None,16.68,Yes,80.35
+Female,18,Graduate,42051.87,Yes,75.07,89.41,67.3,5.16,1,Moderate,8.41,No,78.71
+Female,18,Graduate,46663.12,Yes,100.0,81.36,56.25,2.66,3,Low,7.98,No,74.67
+Female,18,Diploma,34250.74,Yes,79.02,81.12,54.79,9.68,3,Low,11.14,Yes,89.67
+Male,19,Diploma,37669.83,Yes,72.55,66.13,91.41,4.4,3,Low,11.9,Yes,72.11
+Male,14,High School,49653.6,Yes,68.4,61.1,57.05,8.05,1,None,9.86,Yes,78.27
+Female,14,Diploma,38546.98,Yes,58.15,74.96,67.22,3.18,3,High,10.42,No,66.24
+Male,17,Postgraduate,26477.56,Yes,72.73,64.71,82.16,1.56,1,Low,6.37,Yes,63.56
+Female,17,Graduate,54528.14,Yes,80.03,65.46,90.94,3.19,3,Moderate,7.56,Yes,74.54
+Female,19,High School,39326.5,Yes,77.47,68.7,69.29,0.23,0,None,13.07,No,69.43
+Female,19,Diploma,31126.69,Yes,53.34,69.03,95.13,5.02,2,Low,9.86,No,56.51
+Male,17,High School,25214.06,Yes,94.75,94.91,88.78,3.91,1,None,11.77,No,85.17
+Female,14,Postgraduate,29095.25,Yes,76.92,84.25,70.05,4.96,2,Moderate,8.64,Yes,82.29
+Female,18,Graduate,32065.27,Yes,79.75,90.24,69.42,1.16,1,High,7.56,No,78.25
+Male,16,Graduate,17500.98,Yes,40.1,63.19,62.87,1.72,3,Moderate,9.42,Yes,54.26
+Female,17,Diploma,38543.97,No,62.95,79.62,84.53,2.26,6,High,14.06,Yes,66.87
+Female,15,Graduate,41939.36,Yes,85.38,72.62,77.4,8.38,5,Moderate,5.7,No,73.19
+Female,16,High School,49273.71,Yes,78.45,63.57,85.74,2.38,5,None,9.69,No,68.68
+Female,15,Diploma,36984.69,No,91.71,62.13,53.78,0.22,5,None,9.24,Yes,64.64
+Male,17,Graduate,35238.74,Yes,63.81,66.62,84.01,5.2,3,Low,11.77,No,68.22
+Female,14,Diploma,53725.76,Yes,76.9,64.98,69.44,8.63,2,High,14.28,No,84.83
+Male,17,Graduate,36701.47,Yes,92.61,95.52,82.85,9.76,3,Low,7.99,Yes,95.52
+Female,17,Diploma,27358.65,Yes,76.47,85.53,97.5,5.17,0,Moderate,8.21,No,76.82
+Male,15,High School,34154.06,Yes,68.05,82.04,59.53,7.16,2,None,8.53,Yes,76.92
+Male,15,Graduate,44003.76,Yes,56.66,90.38,85.8,0.79,2,Low,12.82,Yes,81.07
+Male,17,Graduate,21982.19,Yes,63.66,67.19,54.23,2.81,1,None,11.78,Yes,68.65
+Male,19,Postgraduate,49428.33,No,67.18,67.75,79.32,0.98,1,High,13.81,No,68.84
+Male,19,Diploma,48878.37,Yes,58.14,75.16,87.06,6.28,2,Moderate,11.16,Yes,79.3
+Female,18,High School,34934.22,No,58.08,82.72,57.77,2.23,3,Moderate,8.09,Yes,63.9
+Male,14,High School,56622.53,Yes,75.12,87.27,80.45,2.63,1,Low,6.14,No,70.2
+Male,16,Graduate,27116.35,Yes,76.0,83.62,92.29,8.43,1,Moderate,9.59,No,89.88
+Female,17,Diploma,35565.34,Yes,56.44,70.13,57.17,0.66,1,Moderate,10.27,Yes,63.25
+Male,15,Diploma,37490.38,Yes,50.48,74.15,61.42,2.75,1,Moderate,7.68,No,52.68
+Female,18,Diploma,55654.17,Yes,82.25,90.62,86.52,2.62,1,Moderate,10.22,Yes,66.06
+Male,17,Graduate,28514.59,Yes,65.15,83.68,80.26,9.06,1,Moderate,12.58,No,87.04
+Female,14,Diploma,42400.63,Yes,86.16,69.14,96.01,0.41,3,High,9.03,No,59.75
+Female,19,Graduate,16806.75,Yes,76.47,68.51,63.9,1.02,1,Low,9.13,Yes,64.24
+Male,18,High School,34533.95,Yes,62.95,64.43,59.93,1.49,2,None,6.87,No,55.85
+Male,19,Diploma,46204.68,Yes,45.41,92.76,50.1,9.68,3,Moderate,9.18,Yes,83.9
+Male,15,High School,50614.14,Yes,68.82,75.49,87.43,2.13,0,None,9.18,No,72.31
+Female,14,Postgraduate,44484.05,Yes,91.08,86.92,81.32,5.6,2,Moderate,5.4,No,77.54
+Male,16,Postgraduate,34756.88,No,60.96,76.88,81.14,3.71,0,Low,3.46,Yes,57.18
+Female,16,Graduate,34477.04,Yes,52.72,89.23,58.95,5.49,2,None,14.22,No,75.98
+Female,14,High School,41493.37,Yes,55.02,76.73,50.07,2.13,2,Low,14.33,Yes,62.45
+Male,19,Diploma,46087.2,Yes,72.46,94.19,95.6,7.65,2,Low,7.97,Yes,82.81
+Male,16,Diploma,44659.94,Yes,54.31,62.39,95.48,5.54,6,High,4.33,Yes,60.03
+Female,14,Graduate,42437.6,Yes,53.08,65.55,97.22,8.16,3,Low,11.09,No,74.96
+Female,15,High School,51771.6,Yes,81.28,77.26,85.81,0.57,1,Moderate,12.21,Yes,89.78
+Female,17,High School,48646.66,Yes,52.84,89.03,94.96,1.06,3,Low,11.99,Yes,77.44
+Male,19,Diploma,45263.11,Yes,91.64,83.82,95.45,5.01,2,Low,10.02,Yes,88.83
+Male,14,High School,47749.77,No,76.37,66.39,58.69,2.59,2,Moderate,8.71,Yes,70.15
+Female,17,Diploma,33281.43,Yes,92.85,73.01,88.02,2.95,5,High,9.81,No,81.26
+Male,15,High School,39888.15,Yes,89.29,81.64,91.35,2.25,1,Moderate,12.04,Yes,86.59
+Female,14,Diploma,55686.68,No,58.89,63.25,72.81,7.73,4,Low,9.77,Yes,76.68
+Female,17,High School,48726.28,Yes,68.32,80.42,71.31,3.07,2,Low,13.39,No,80.43
+Female,15,Diploma,36062.56,Yes,73.31,78.82,71.04,3.59,1,None,13.44,No,86.06
+Female,18,High School,49030.15,Yes,65.94,97.09,88.52,2.12,1,Low,2.75,No,55.01
+Male,16,Graduate,32450.66,Yes,62.4,79.68,62.25,1.58,1,Moderate,5.92,No,52.13
+Male,15,High School,30856.5,Yes,90.39,72.77,81.16,0.46,6,None,9.22,Yes,66.82
+Male,15,High School,32251.74,Yes,82.77,67.3,69.3,1.54,3,Moderate,11.89,Yes,82.32
+Male,17,Postgraduate,33457.18,Yes,72.84,77.98,80.61,5.77,1,Moderate,5.21,Yes,80.1
+Female,19,High School,36075.29,Yes,65.96,99.13,50.52,5.61,2,Low,12.76,No,82.75
+Male,15,High School,39361.96,Yes,73.51,90.58,85.08,9.63,5,None,10.4,No,87.41
+Male,16,High School,45703.2,Yes,48.82,81.56,80.33,4.68,1,High,10.09,No,66.97
+Female,15,High School,32822.24,Yes,51.03,65.83,99.3,9.63,1,None,6.93,No,69.89
+Female,17,Postgraduate,36171.15,Yes,98.25,84.01,50.68,6.59,2,Low,9.27,No,84.91
+Male,17,Diploma,35078.63,Yes,95.23,68.47,97.56,3.48,1,None,9.16,No,83.61
+Female,18,Diploma,48164.96,Yes,72.18,78.85,66.82,9.0,4,None,13.67,Yes,94.23
+Female,14,High School,42492.59,Yes,69.53,96.27,55.1,8.72,1,None,11.72,No,96.99
+Female,18,Diploma,35614.95,Yes,63.03,87.78,95.87,7.8,4,None,0.35,Yes,64.18
+Male,19,Diploma,58900.29,No,56.21,84.7,65.54,6.27,1,Moderate,7.93,Yes,85.46
+Male,16,High School,54777.7,No,60.15,95.48,98.64,4.87,4,Low,9.61,Yes,71.14
+Male,14,High School,43162.78,Yes,92.67,97.48,74.73,0.05,0,Low,8.69,No,77.38
+Female,17,Graduate,46261.91,Yes,61.32,70.85,83.23,9.2,1,Moderate,5.72,No,74.17
+Female,19,Graduate,43812.4,Yes,60.19,80.81,60.49,0.78,0,None,13.97,No,72.12
+Female,14,Diploma,25429.06,Yes,57.24,85.3,95.72,7.1,4,Moderate,11.13,Yes,79.85
+Female,14,Diploma,52315.56,Yes,63.69,82.74,50.96,3.26,4,Moderate,13.74,No,65.61
+Female,14,High School,25161.16,Yes,76.15,68.06,60.1,1.18,1,Low,9.07,No,60.6
+Male,18,Graduate,53501.37,No,45.75,93.58,57.97,3.86,0,None,9.58,No,68.53
+Male,18,High School,35238.56,No,66.1,85.37,58.86,0.03,1,Low,15.58,No,76.31
+Female,15,High School,57038.15,Yes,65.07,68.09,91.39,5.86,5,None,7.38,Yes,58.12
+Male,16,High School,56353.45,No,79.03,94.57,78.78,0.68,2,None,7.69,Yes,69.89
+Female,15,High School,50610.98,No,61.05,91.15,65.63,1.99,3,Moderate,11.66,No,73.23
+Male,16,Diploma,27834.77,Yes,47.28,63.48,87.93,3.38,0,Low,9.03,Yes,67.07
+Female,17,Diploma,40096.51,Yes,70.24,84.19,90.72,8.16,6,None,10.34,No,80.34
+Male,16,High School,34440.26,Yes,60.59,84.4,77.52,5.2,3,Moderate,18.42,Yes,86.12
+Male,16,High School,56495.08,Yes,43.37,65.49,69.9,7.84,2,None,8.09,No,62.5
+Female,15,Graduate,49145.65,Yes,45.17,93.63,73.33,2.57,1,Low,11.81,Yes,72.95
+Female,19,High School,57098.21,Yes,64.39,62.87,81.28,2.69,3,None,6.89,Yes,61.45
+Male,17,Graduate,48918.62,Yes,74.36,96.85,89.1,6.84,4,None,3.61,Yes,74.46
+Female,17,Diploma,51626.51,Yes,85.58,61.77,67.4,9.47,0,None,4.74,Yes,86.33
+Male,15,Graduate,35981.84,No,75.12,77.56,95.7,7.49,2,None,10.63,Yes,83.83
+Female,18,Postgraduate,47602.61,Yes,73.74,86.48,90.69,9.54,0,None,11.17,Yes,94.52
+Female,19,Graduate,42368.51,Yes,66.52,84.74,74.1,0.52,0,Low,4.43,No,57.99
+Male,16,Diploma,55694.46,Yes,88.17,68.41,60.17,2.93,2,Moderate,13.41,No,76.01
+Male,16,Diploma,40611.65,Yes,64.86,89.79,60.27,9.56,2,None,15.07,Yes,92.53
+Male,14,Graduate,33786.7,Yes,44.75,69.23,96.33,3.84,1,None,8.34,No,60.39
+Male,14,Diploma,43254.87,Yes,59.7,71.65,70.58,9.81,2,Moderate,0.91,Yes,62.74
+Female,16,High School,43999.49,Yes,89.02,84.25,77.12,0.06,0,None,17.13,No,87.49
+Female,15,Graduate,32457.34,Yes,76.53,87.5,96.88,4.44,3,Moderate,16.19,Yes,87.25
+Female,18,High School,41030.75,Yes,65.13,74.99,79.21,6.67,1,Moderate,8.21,Yes,77.7
+Male,19,Diploma,48345.99,Yes,66.48,98.5,73.45,1.24,2,High,8.88,Yes,76.15
+Female,14,Graduate,33719.06,Yes,60.1,75.27,92.69,5.57,5,None,12.58,Yes,68.72
+Male,19,High School,53004.83,Yes,81.34,96.08,95.72,3.46,1,Low,11.8,No,81.2
+Female,16,Graduate,35684.9,Yes,62.41,61.69,69.0,1.15,1,Moderate,9.36,No,53.64
+Female,16,Diploma,43859.1,Yes,54.11,83.12,85.66,3.75,0,High,9.82,Yes,78.07
+Male,16,Graduate,26871.79,Yes,68.77,98.58,94.71,5.2,1,Moderate,10.19,No,81.36
+Male,18,High School,33460.63,Yes,52.96,83.43,70.37,5.43,2,Moderate,8.92,Yes,81.73
+Male,19,Graduate,46054.52,Yes,85.11,97.0,89.25,6.59,2,High,12.98,Yes,99.64
+Male,14,Graduate,38179.12,Yes,79.51,97.87,82.58,7.38,1,None,6.77,Yes,82.67
+Female,18,Diploma,18707.85,Yes,57.97,73.57,61.59,6.04,2,None,10.65,No,67.08
+Male,19,Diploma,41072.55,Yes,80.58,65.07,72.62,8.56,2,None,13.54,Yes,97.34
+Male,14,Graduate,42890.12,Yes,40.2,67.11,76.93,5.23,0,Moderate,6.93,No,57.1
+Male,17,Graduate,37655.83,Yes,61.71,90.63,54.01,8.02,3,Low,13.46,Yes,89.74
+Female,16,Diploma,32233.91,Yes,67.13,72.1,80.95,1.14,7,High,17.27,No,67.41
+Male,16,Diploma,38473.5,No,69.0,67.5,61.43,6.2,4,None,12.97,No,74.93
+Female,19,Diploma,42265.36,Yes,59.31,63.95,65.12,6.66,1,None,7.56,Yes,78.56
+Female,18,High School,50733.03,Yes,69.03,67.71,82.99,3.68,2,Low,12.64,Yes,76.53
+Female,18,High School,31026.69,Yes,62.4,69.44,89.68,9.63,1,None,16.93,No,80.47
+Male,15,High School,20863.55,No,51.15,68.23,78.7,6.16,3,None,14.15,No,71.9
+Male,15,Diploma,41649.56,Yes,71.26,95.99,96.29,1.37,6,Low,13.17,No,75.33
+Male,16,Diploma,41785.92,Yes,73.76,95.83,91.89,4.17,0,Low,10.58,No,72.4
+Male,17,Diploma,40708.13,Yes,66.77,98.26,98.27,7.11,1,Low,15.19,Yes,100.0
+Female,18,Graduate,19428.63,Yes,43.02,96.98,90.48,1.32,0,Moderate,8.38,Yes,69.93
+Male,19,Graduate,41405.77,No,82.76,76.8,60.57,0.04,4,Low,15.13,No,71.17
+Male,16,High School,39126.24,Yes,46.3,80.08,54.19,4.71,1,Moderate,9.34,Yes,66.17
+Female,19,High School,42550.4,Yes,89.51,77.53,65.35,3.61,3,None,11.34,No,78.61
+Female,19,High School,47304.78,Yes,63.62,83.16,82.41,0.35,3,Low,9.72,Yes,65.34
+Male,18,Diploma,39866.97,Yes,61.93,93.06,54.07,5.66,3,High,7.83,No,69.21
+Male,16,Diploma,26996.64,Yes,64.55,64.63,90.68,0.27,1,None,10.58,Yes,72.44
+Male,19,Graduate,38581.15,Yes,89.26,98.19,87.34,9.11,0,Low,11.16,Yes,93.5
+Male,17,Graduate,48975.01,Yes,66.62,97.88,74.34,9.98,0,None,9.1,Yes,88.99
+Male,16,High School,33698.3,Yes,64.63,62.25,59.41,9.91,3,None,6.63,Yes,71.31
+Female,19,Graduate,25636.48,Yes,47.98,76.54,85.44,6.65,3,High,13.58,No,68.15
+Male,17,Graduate,38234.22,Yes,74.68,71.86,86.24,6.47,2,High,10.9,Yes,91.71
+Male,18,High School,44403.29,Yes,63.38,85.96,97.99,8.89,3,Moderate,9.01,Yes,85.53
+Female,16,High School,43936.36,Yes,63.75,93.84,89.08,5.03,6,Moderate,13.79,No,78.78
+Female,19,High School,37780.53,Yes,85.57,99.59,54.92,0.08,1,Low,13.54,No,79.88
+Female,18,High School,38106.31,Yes,69.67,77.7,91.38,1.91,1,None,10.29,No,71.29
+Female,19,Graduate,39601.55,Yes,66.91,92.2,54.18,1.13,4,None,16.64,No,71.32
+Male,18,Diploma,43832.13,Yes,67.41,74.98,88.61,3.48,1,Low,10.11,Yes,68.96
+Female,16,Postgraduate,47750.52,Yes,81.46,81.24,56.35,3.79,3,Moderate,15.07,Yes,81.24
+Female,19,Graduate,36526.56,Yes,70.17,80.33,83.6,3.12,0,Low,5.0,No,60.08
+Male,16,High School,33795.34,No,96.62,72.27,60.64,5.18,2,None,6.77,No,77.7
+Male,19,Diploma,45093.59,Yes,84.72,80.84,60.91,4.39,2,Moderate,17.66,Yes,93.16
+Female,17,Graduate,42607.07,No,80.93,66.61,50.35,8.7,4,High,11.89,Yes,76.35
+Female,16,Postgraduate,41013.81,No,60.39,94.46,69.8,6.53,1,None,7.58,Yes,79.39
+Male,16,Graduate,62937.6,Yes,71.75,83.5,73.0,7.92,1,Moderate,17.3,No,96.51
+Male,14,High School,35134.9,Yes,73.49,63.32,83.55,9.51,3,None,10.97,Yes,80.78
+Female,15,High School,21416.06,Yes,73.08,72.53,51.96,3.01,3,High,11.19,Yes,70.49
+Male,19,Graduate,42051.66,Yes,71.11,98.34,84.26,7.99,4,High,6.71,No,79.48
+Male,18,High School,49507.52,No,67.33,88.57,64.38,8.17,2,Low,10.26,No,78.84
+Female,18,Graduate,33377.42,Yes,67.39,74.01,80.22,2.81,1,Low,8.63,No,70.42
+Male,14,High School,57028.93,Yes,76.63,75.3,99.08,8.99,2,None,4.02,No,72.48
+Female,18,Graduate,40838.65,Yes,71.45,85.44,62.55,9.06,2,None,8.56,No,75.39
+Female,18,Diploma,37098.75,Yes,61.12,62.48,82.74,5.7,0,Low,14.58,Yes,84.73
+Female,14,High School,42070.22,Yes,86.96,95.59,79.95,8.97,3,None,4.48,No,77.88
+Male,14,Graduate,44822.13,Yes,49.4,78.8,94.56,4.88,2,Low,10.86,No,68.57
+Female,16,High School,59489.63,Yes,95.28,94.41,59.24,8.98,1,Low,12.56,No,94.37
+Female,16,Graduate,47125.07,Yes,81.54,89.02,72.13,1.43,3,Low,14.02,Yes,81.68
+Female,17,High School,47759.29,No,63.89,65.92,68.01,4.53,4,High,11.97,No,62.14
+Male,19,Diploma,48348.23,Yes,44.44,80.65,55.4,8.52,2,High,12.93,No,88.59
+Male,19,Graduate,47749.83,Yes,73.96,65.36,53.13,4.1,1,None,10.96,No,79.02
+Female,14,Graduate,23243.41,Yes,65.16,87.19,98.37,8.86,2,High,6.21,No,86.4
+Female,15,Diploma,28817.9,Yes,62.33,75.09,59.77,6.51,1,Moderate,14.01,Yes,90.18
+Male,14,High School,33570.04,No,100.0,83.47,89.71,9.06,2,None,13.27,No,98.26
+Male,17,Graduate,32977.24,Yes,77.4,90.11,78.49,7.97,3,None,7.4,Yes,82.51
+Male,14,Diploma,30274.07,Yes,99.36,62.82,73.44,4.47,4,Low,7.58,No,65.76
+Female,14,Diploma,32203.82,Yes,75.71,88.14,69.79,5.57,2,None,9.4,Yes,87.09
+Female,19,High School,50540.79,Yes,75.3,62.58,70.07,5.21,2,None,4.78,Yes,71.09
+Female,15,High School,37674.21,Yes,77.85,68.26,66.6,4.18,5,High,10.69,Yes,68.11
+Male,17,Postgraduate,24925.77,Yes,79.29,77.7,51.98,8.99,2,None,12.39,No,87.69
+Male,19,Graduate,33476.98,Yes,55.41,76.88,81.18,5.9,2,Low,14.87,No,74.9
+Male,17,Graduate,34331.72,Yes,78.25,86.94,98.23,3.88,2,Low,4.45,No,64.62
+Male,16,High School,49763.23,Yes,57.78,75.46,94.17,7.99,0,None,11.73,Yes,88.4
+Male,15,Graduate,30232.87,No,44.71,77.58,57.05,2.11,3,Low,12.27,Yes,66.87
+Female,19,Diploma,58564.9,Yes,71.42,79.32,82.86,1.65,3,Moderate,8.99,No,61.0
+Female,16,Postgraduate,30376.81,Yes,87.7,72.6,79.72,8.7,2,Moderate,4.86,Yes,87.98
+Female,19,Graduate,49824.11,Yes,77.94,96.37,77.69,9.18,3,Moderate,8.48,No,90.07
+Male,14,Postgraduate,34885.02,Yes,92.86,76.23,99.78,4.56,4,None,7.8,No,73.31
+Male,17,Diploma,35767.52,No,44.79,85.69,76.11,2.57,1,Low,11.49,Yes,65.48
+Male,15,High School,29005.54,Yes,74.29,84.41,61.22,7.05,0,Moderate,8.86,Yes,82.67
+Male,14,Postgraduate,45558.15,Yes,60.61,70.38,87.8,4.81,0,None,7.48,Yes,70.62
+Female,14,Diploma,62397.02,Yes,53.03,69.41,76.52,8.01,1,Low,14.98,No,71.22
+Male,16,High School,25545.61,Yes,84.81,67.34,97.5,7.49,0,None,8.77,Yes,85.5
+Female,16,High School,42919.6,Yes,77.28,84.19,97.86,5.58,1,Low,12.05,No,90.96
+Female,16,Postgraduate,46816.87,Yes,87.59,77.4,95.21,9.42,3,Moderate,6.77,Yes,90.41
+Female,17,Graduate,37851.03,Yes,100.0,80.17,56.02,2.77,2,Moderate,9.93,Yes,82.3
+Male,17,Graduate,36090.01,Yes,71.31,72.01,97.01,2.22,5,None,11.52,No,65.86
+Female,19,Diploma,49346.09,Yes,78.94,96.74,84.0,9.05,2,Moderate,11.61,No,91.58
+Female,14,High School,44391.52,Yes,98.72,85.23,92.62,4.7,2,None,4.98,No,68.03
+Female,15,Graduate,34564.07,Yes,62.62,79.08,66.11,9.26,3,Low,15.41,No,77.54
+Female,15,High School,45201.09,Yes,58.12,96.15,81.22,5.05,3,Low,14.41,Yes,88.32
+Male,16,Graduate,31738.95,No,78.71,94.66,67.53,4.58,2,Low,10.74,No,94.94
+Female,14,High School,49067.79,Yes,66.24,73.98,86.81,9.2,3,None,11.72,Yes,83.47
+Female,19,Graduate,39618.41,Yes,65.0,73.05,55.18,7.13,1,None,6.19,No,65.48
+Female,16,Diploma,48666.05,Yes,39.0,63.45,93.86,7.64,6,Low,8.76,Yes,62.0
+Female,17,Graduate,47774.17,Yes,73.56,69.25,72.71,8.41,3,High,9.19,Yes,74.59
+Female,19,Graduate,31280.99,Yes,92.58,63.8,98.51,6.94,6,None,10.38,Yes,76.06
+Female,15,Graduate,48257.89,No,74.86,75.75,64.03,3.34,1,Moderate,8.67,Yes,72.15
+Male,18,Diploma,26648.65,Yes,37.45,66.31,95.11,0.33,2,None,9.44,Yes,58.96
+Female,14,Diploma,40718.58,Yes,75.2,81.73,92.4,1.76,1,None,8.37,Yes,74.7
+Male,19,Diploma,38254.19,Yes,62.92,97.22,99.84,8.42,1,Moderate,9.93,Yes,84.71
+Female,18,High School,39652.29,Yes,64.76,85.29,55.84,6.16,2,Moderate,13.98,No,84.11
+Female,17,High School,26491.21,No,80.91,96.85,59.98,6.28,1,Low,8.86,Yes,100.0
+Male,14,High School,55599.77,Yes,79.19,97.46,89.63,1.56,1,Low,13.31,Yes,86.31
+Female,17,High School,23453.15,Yes,87.76,79.49,67.08,4.17,0,High,8.4,Yes,90.46
+Male,19,Graduate,41240.96,Yes,83.43,89.92,95.59,3.53,1,None,7.03,Yes,76.81
+Male,17,Postgraduate,38669.81,Yes,61.41,64.42,67.55,7.53,3,Moderate,3.77,Yes,60.82
+Female,16,Postgraduate,45582.11,Yes,68.32,74.23,63.34,3.85,4,None,7.06,Yes,67.99
+Male,17,High School,62662.65,Yes,67.76,80.93,67.02,3.16,0,Low,10.82,No,72.77
+Female,16,Diploma,50027.4,Yes,77.48,88.09,97.12,6.73,0,None,9.55,Yes,85.35
+Female,16,Graduate,54708.06,Yes,74.49,62.15,81.65,7.96,1,Low,12.13,No,90.21
+Female,14,Graduate,52590.79,Yes,94.38,81.89,74.9,7.53,0,Moderate,2.47,No,72.52
+Female,18,Graduate,20897.91,Yes,73.87,64.37,57.95,5.93,3,None,13.37,No,84.05
+Male,18,Diploma,44517.53,Yes,70.35,98.06,99.04,6.58,0,None,4.32,No,78.61
+Female,15,Diploma,33942.77,Yes,57.06,78.08,74.7,6.2,2,Low,8.76,No,63.55
+Male,14,Graduate,42915.08,Yes,90.55,65.78,92.85,3.75,2,None,8.62,Yes,85.74
+Female,14,High School,17371.05,Yes,81.6,82.37,73.69,7.19,0,High,8.82,Yes,87.79
+Female,18,Diploma,32098.81,Yes,88.85,70.45,79.95,1.62,2,Low,7.05,No,75.03
+Male,14,High School,34399.36,Yes,62.24,96.28,82.67,9.83,0,Low,4.31,Yes,80.58
+Male,14,High School,43746.98,Yes,39.07,87.59,90.74,1.42,4,Moderate,11.73,Yes,66.4
+Female,18,Diploma,44514.12,Yes,81.95,76.64,85.67,4.48,0,None,11.94,Yes,93.19
+Male,17,Graduate,49325.55,Yes,80.27,88.73,83.86,5.52,2,Moderate,12.64,Yes,87.38
+Male,15,Postgraduate,47526.51,Yes,70.13,60.5,51.15,4.5,2,Low,12.46,No,63.43
+Male,14,Graduate,46792.37,No,98.96,70.7,62.79,4.59,4,None,6.92,Yes,75.98
+Female,15,High School,39043.22,No,56.77,62.74,88.41,4.15,2,Moderate,6.77,Yes,65.73
+Male,17,Graduate,26211.83,Yes,76.62,90.17,80.84,3.79,3,Low,4.73,Yes,76.55
+Male,17,High School,36016.79,Yes,76.19,77.2,96.76,3.32,2,Moderate,10.23,Yes,73.58
+Female,15,Graduate,34149.83,Yes,100.0,60.21,70.19,3.97,3,High,9.87,Yes,79.98
+Female,14,Graduate,55838.78,Yes,58.69,77.48,74.76,2.36,3,None,14.32,Yes,65.11
+Male,17,High School,49695.59,Yes,78.28,76.14,95.17,1.5,2,None,6.26,No,65.62
+Female,17,Diploma,56408.32,No,71.46,90.54,71.32,6.47,5,Low,11.83,Yes,82.21
+Male,14,Diploma,38460.49,Yes,66.63,66.5,56.06,1.49,0,None,6.48,Yes,63.0
+Male,15,Graduate,34027.65,Yes,90.92,86.65,60.15,1.15,5,Moderate,7.59,Yes,67.71
+Male,17,Graduate,29056.12,Yes,41.89,65.95,86.32,2.03,3,None,11.49,No,49.32
+Female,15,Graduate,50629.59,Yes,56.87,77.29,56.37,2.75,1,None,4.59,Yes,54.99
+Female,15,Diploma,36991.32,Yes,83.66,81.94,50.58,5.26,2,None,13.25,Yes,91.43
+Female,16,Diploma,39069.08,Yes,41.85,90.69,56.74,4.34,0,Low,10.78,Yes,69.62
+Male,15,Diploma,45604.45,Yes,72.49,89.97,88.41,1.52,1,High,8.97,Yes,69.52
+Female,15,High School,32819.54,Yes,72.74,83.38,69.94,9.45,3,None,8.02,No,86.1
+Female,14,High School,41051.5,Yes,35.31,83.79,65.89,6.12,2,None,10.69,Yes,64.16
+Male,18,Diploma,29792.8,Yes,96.97,86.31,96.43,1.16,6,Moderate,9.61,No,74.6
+Female,19,Diploma,36511.17,Yes,56.11,83.15,97.13,2.3,3,None,9.18,No,64.85
+Female,19,Diploma,27572.55,Yes,73.63,96.28,51.74,8.32,2,High,5.26,No,71.65
+Female,16,Diploma,32652.72,No,70.63,90.06,99.29,2.79,4,Low,10.74,No,77.08
+Male,15,Diploma,30326.48,Yes,58.75,88.76,76.81,1.19,1,None,7.46,Yes,61.73
+Female,19,High School,23068.75,Yes,48.19,81.28,88.21,6.52,4,Moderate,6.3,Yes,70.79
+Female,18,Postgraduate,30001.46,Yes,66.19,60.08,78.07,0.21,3,High,9.67,No,60.41
+Female,18,Diploma,44237.33,Yes,63.07,71.86,56.3,1.5,0,None,10.25,Yes,71.29
+Female,14,Graduate,28166.76,Yes,59.96,89.56,58.38,5.98,0,Low,11.88,No,69.42
+Female,15,High School,60917.52,No,74.8,96.45,79.61,3.09,2,Low,9.65,Yes,86.53
+Female,16,Graduate,44060.68,Yes,61.24,83.46,86.78,1.08,1,Low,10.46,Yes,71.56
+Female,18,High School,35337.32,Yes,69.59,81.14,78.76,2.82,1,None,7.96,Yes,74.76
+Male,14,Graduate,30198.72,Yes,59.42,72.67,55.22,1.49,1,High,14.64,No,61.5
+Male,19,High School,34516.7,Yes,73.41,62.36,80.6,4.43,2,Low,11.18,No,68.24
+Male,19,Diploma,27884.27,Yes,66.29,71.34,53.55,4.79,0,Low,12.7,Yes,71.55
+Female,16,Diploma,19567.1,Yes,63.83,87.43,67.3,7.23,1,High,14.14,Yes,75.66
+Female,15,Diploma,28409.27,No,62.44,69.62,89.63,5.44,0,Low,7.58,Yes,72.53
+Male,14,Postgraduate,54623.44,Yes,65.13,89.34,56.02,4.11,1,Moderate,5.94,Yes,78.57
+Female,14,Diploma,27618.73,Yes,73.29,94.78,86.77,5.43,1,Moderate,11.68,No,76.98
+Female,18,Postgraduate,50018.99,Yes,77.15,90.1,83.47,9.25,0,None,10.99,Yes,99.05
+Male,15,High School,49499.33,Yes,72.81,94.84,94.74,7.07,1,None,7.96,Yes,88.51
+Female,15,High School,35464.2,Yes,68.44,92.16,80.64,2.15,2,None,8.69,Yes,69.45
+Female,17,Graduate,49656.82,Yes,63.09,64.82,85.92,5.22,4,Low,13.85,Yes,71.48
+Female,18,Graduate,39713.05,Yes,75.3,77.44,63.55,4.92,3,None,7.68,Yes,71.66
+Male,17,Diploma,30910.12,No,78.55,88.97,85.22,5.04,1,None,8.42,Yes,74.7
+Female,16,Diploma,31392.97,Yes,88.32,79.6,72.53,0.43,0,High,7.12,No,55.8
+Female,15,High School,15796.18,Yes,79.15,96.12,68.82,3.05,2,Moderate,7.04,Yes,72.44
+Female,15,Postgraduate,37058.67,Yes,63.26,90.08,68.45,3.8,4,None,8.46,Yes,61.37
+Female,17,Graduate,43723.39,Yes,54.62,60.21,55.36,5.78,4,Low,5.54,No,43.23
+Male,16,Diploma,40935.21,Yes,74.1,68.85,78.71,0.41,6,Low,8.65,No,50.45
+Male,19,Postgraduate,34271.73,No,52.07,87.76,77.03,0.65,1,None,8.9,Yes,61.0
+Female,18,High School,26823.13,Yes,50.6,91.9,69.54,6.31,0,Low,6.68,No,65.42
+Female,19,Postgraduate,37568.48,Yes,74.74,90.51,71.61,0.79,1,None,12.66,No,70.47
+Male,14,Diploma,47537.43,Yes,74.45,73.12,66.8,6.73,4,None,11.49,Yes,91.1
+Female,17,Diploma,27273.77,Yes,82.87,76.06,85.47,9.59,2,High,1.4,Yes,85.48
+Male,19,Graduate,50346.76,Yes,71.39,62.11,62.34,6.03,2,None,9.8,No,67.34
+Male,19,High School,41509.65,Yes,82.89,69.88,85.4,3.28,3,Low,12.73,Yes,80.76
+Male,16,Diploma,40643.15,Yes,36.08,92.68,80.46,5.1,3,Low,6.51,Yes,59.1
+Male,19,Graduate,42660.52,Yes,51.48,70.72,67.25,3.76,0,None,11.22,Yes,70.07
+Female,17,Postgraduate,44967.26,Yes,78.58,89.86,88.65,4.01,3,Moderate,8.48,No,79.67
+Female,19,Postgraduate,47944.04,Yes,100.0,84.26,82.3,7.57,0,Moderate,11.44,No,93.57
+Female,15,High School,51957.42,Yes,68.3,65.97,56.04,7.97,2,None,4.11,No,61.97
+Male,15,Graduate,26546.39,Yes,77.61,72.2,89.14,9.64,0,Moderate,6.24,Yes,88.91
+Male,15,High School,43477.68,Yes,84.44,74.28,56.29,5.59,2,Moderate,13.36,Yes,92.91
+Female,16,Diploma,32715.71,Yes,80.8,85.95,53.81,9.65,2,Moderate,13.63,Yes,93.42
+Male,16,Diploma,31740.87,Yes,45.36,82.21,57.81,5.11,0,Moderate,11.58,No,72.73
+Male,14,High School,28548.64,No,65.52,93.85,76.49,3.09,2,Low,12.37,Yes,85.05
+Female,16,Diploma,59261.76,Yes,65.55,67.02,57.36,9.75,3,None,5.03,No,70.74
+Female,15,High School,41729.54,Yes,66.31,86.57,87.38,7.45,0,None,13.64,No,80.32
+Male,18,Graduate,48055.72,Yes,65.34,83.78,73.45,5.43,2,Low,14.46,No,70.52
+Male,17,Graduate,39640.25,Yes,67.87,92.45,63.0,7.18,0,None,14.42,Yes,86.89
+Male,18,Diploma,31186.13,Yes,86.22,88.08,61.28,8.83,5,None,10.17,Yes,99.26
+Female,18,High School,31495.65,Yes,82.9,99.55,56.43,6.28,0,None,13.19,Yes,97.76
+Female,16,Postgraduate,37840.96,Yes,69.71,64.16,60.79,5.5,1,Moderate,6.78,No,59.42
+Male,16,Diploma,45604.66,Yes,60.37,88.62,73.94,1.89,2,Low,7.77,Yes,59.22
+Male,19,Graduate,45588.81,Yes,86.35,63.27,59.13,9.08,4,None,13.17,Yes,87.81
+Male,17,High School,49877.94,Yes,81.57,83.39,65.25,7.62,1,Low,16.39,Yes,100.0
+Male,15,Postgraduate,42477.28,Yes,78.28,81.97,74.34,8.37,1,Moderate,13.74,Yes,96.41
+Male,19,Graduate,43176.0,Yes,59.61,62.55,84.23,3.96,1,Low,10.58,Yes,80.91
+Female,19,High School,36818.47,Yes,65.13,99.99,90.1,2.75,2,Low,12.88,Yes,78.61
+Female,19,High School,46497.22,Yes,67.05,73.49,62.13,0.29,2,Moderate,13.57,No,63.68
+Female,19,Postgraduate,32667.37,Yes,69.94,60.07,55.96,7.05,1,None,6.79,Yes,83.92
+Female,14,Diploma,33009.79,Yes,56.35,70.09,61.18,5.14,3,Low,9.44,Yes,73.32
+Female,19,Graduate,42932.48,No,49.77,97.13,99.28,1.27,0,None,12.58,No,71.93
+Male,18,High School,46199.93,Yes,84.1,95.99,50.4,3.82,0,None,9.53,Yes,85.03
+Male,18,Diploma,34511.06,Yes,100.0,97.77,55.07,6.36,3,Moderate,15.7,Yes,92.35
+Male,15,High School,23456.31,Yes,75.04,71.02,50.06,6.76,0,None,13.75,Yes,88.12
+Male,17,Postgraduate,45465.03,Yes,35.29,63.8,66.84,6.43,3,Low,8.02,No,62.48
+Male,14,Graduate,34218.51,No,87.69,91.06,78.26,6.84,6,Moderate,11.16,No,83.67
+Female,19,Postgraduate,30705.69,Yes,76.05,85.86,62.58,8.62,1,Low,13.17,Yes,93.7
+Female,16,Diploma,28355.46,Yes,93.11,96.18,78.77,0.29,1,Moderate,7.17,Yes,82.98
+Female,16,Graduate,40192.7,Yes,63.79,77.18,99.25,1.98,3,Low,9.28,Yes,69.75
+Male,14,Diploma,36328.47,Yes,76.63,98.12,89.65,0.58,0,Low,13.12,No,74.48
+Male,18,Diploma,55561.42,Yes,62.7,73.39,90.12,4.81,4,Moderate,3.67,No,65.82
+Male,19,Diploma,29709.01,Yes,60.81,96.19,94.68,0.34,2,Low,8.43,No,63.87
+Male,15,High School,43155.49,No,77.71,98.59,96.56,2.33,3,Low,12.22,Yes,79.67
+Male,18,Diploma,45961.62,Yes,82.2,66.23,84.22,6.97,2,Moderate,13.56,Yes,99.6
+Male,15,High School,54122.99,Yes,87.19,73.1,95.62,6.23,2,Low,11.4,No,84.24
+Female,16,High School,23012.99,Yes,70.29,96.08,65.38,4.96,0,Low,12.02,No,83.34
+Female,18,Postgraduate,40042.83,Yes,57.93,86.76,57.89,8.65,2,Low,9.52,No,65.63
+Female,18,Postgraduate,42869.08,Yes,68.92,70.05,81.76,1.39,2,Low,6.2,Yes,54.8
+Female,19,Diploma,24863.46,Yes,72.5,89.23,64.57,1.08,1,Moderate,14.56,No,75.35
+Male,18,High School,48444.43,No,45.99,82.7,79.91,2.72,1,None,13.18,No,71.63
+Female,15,Diploma,42102.6,Yes,62.93,80.35,61.18,4.33,0,Low,12.44,Yes,84.73
+Male,19,Diploma,21008.36,No,63.24,91.23,56.35,5.95,5,High,15.9,Yes,81.4
+Female,17,Graduate,46615.41,Yes,69.95,79.59,69.37,9.16,1,None,11.81,No,79.66
+Male,19,Diploma,29964.53,Yes,83.71,90.74,84.17,0.22,1,None,13.5,No,76.88
+Male,17,Diploma,41158.39,No,85.09,80.57,50.23,0.1,4,None,9.27,No,67.59
+Male,19,Graduate,19678.92,Yes,81.41,61.05,62.73,7.48,2,Moderate,14.2,Yes,94.53
+Male,14,Graduate,30948.73,Yes,65.94,88.77,98.98,0.87,3,Low,13.1,Yes,77.16
+Male,17,High School,41715.8,Yes,86.78,86.1,95.18,8.21,1,None,9.62,No,88.9
+Male,18,Graduate,37434.33,Yes,68.99,92.2,53.74,4.58,0,Low,6.97,No,74.06
+Female,16,Postgraduate,47143.17,Yes,62.93,60.86,51.26,0.61,1,Low,4.89,Yes,58.95
+Female,14,Graduate,30348.9,Yes,70.63,91.32,87.32,9.96,2,High,11.19,No,89.2
+Female,15,Diploma,42594.63,Yes,81.77,88.71,87.63,6.97,1,High,10.61,Yes,91.46
+Male,14,Diploma,35713.31,Yes,88.35,81.31,57.19,1.58,1,Low,11.61,No,75.99
+Female,15,Graduate,41435.63,Yes,91.5,60.8,90.41,3.2,2,Low,16.22,No,82.39
+Male,14,Postgraduate,38974.24,Yes,77.09,94.13,73.53,2.76,1,High,9.53,No,77.28
+Female,16,Diploma,31914.71,Yes,100.0,68.98,79.18,7.98,4,None,5.73,Yes,91.96
+Male,15,High School,40751.66,Yes,54.9,71.24,79.06,7.25,2,None,12.32,Yes,80.23
+Female,14,Graduate,36917.69,Yes,76.23,97.83,75.15,9.49,2,None,12.08,Yes,94.47
+Male,17,High School,31270.36,Yes,73.06,67.51,84.51,0.44,2,High,10.34,Yes,62.48
+Female,16,Graduate,39694.28,Yes,51.85,62.35,89.56,1.34,4,Low,4.84,No,45.66
+Male,16,Graduate,44225.7,No,73.33,81.2,88.47,1.65,1,Low,9.89,No,57.81
+Female,19,Diploma,21144.87,Yes,61.28,82.56,79.55,4.14,0,Low,12.47,Yes,83.91
+Female,19,Graduate,65405.08,Yes,42.86,63.79,70.88,1.3,1,None,5.75,Yes,51.39
+Female,16,High School,39777.48,Yes,74.96,98.33,94.76,3.15,2,Moderate,11.28,Yes,86.09
+Male,19,Diploma,42371.9,Yes,73.15,68.79,66.16,5.72,2,None,7.66,No,64.22
+Female,15,High School,18947.87,Yes,49.74,60.19,56.33,0.51,4,Low,17.2,Yes,63.12
+Male,17,High School,27589.13,Yes,85.65,67.84,72.36,5.95,3,Moderate,11.73,Yes,90.23
+Female,16,Diploma,52946.72,Yes,64.6,69.8,96.53,4.4,3,Low,9.94,Yes,70.19
+Male,19,Graduate,33767.5,Yes,71.3,93.47,64.13,2.89,0,Moderate,5.27,No,68.0
+Male,19,Diploma,25274.54,Yes,83.64,69.55,51.88,0.21,3,Low,6.85,No,54.04
+Female,19,Graduate,51629.3,Yes,81.31,93.59,91.35,2.44,2,Moderate,10.09,Yes,82.57
+Female,17,Graduate,33732.82,No,77.27,67.97,62.4,7.18,0,Low,11.1,Yes,82.24
+Male,15,Postgraduate,45517.92,No,66.93,99.87,56.35,9.25,5,None,12.11,Yes,91.43
+Male,15,Diploma,17209.94,No,84.84,87.39,76.88,2.88,4,None,8.98,Yes,75.34
+Male,16,Diploma,47616.61,Yes,60.31,75.02,55.05,4.2,1,Moderate,11.26,No,69.4
+Female,18,High School,55728.55,Yes,71.44,67.49,86.55,8.89,1,None,13.1,Yes,87.98
+Female,18,Graduate,33000.25,Yes,49.67,64.48,67.97,5.21,2,Low,6.2,No,49.53
+Male,18,Diploma,40019.16,Yes,53.51,99.51,53.2,3.74,1,None,9.54,No,65.55
+Female,15,Postgraduate,48513.52,Yes,85.64,80.35,50.13,9.32,1,Low,9.5,Yes,85.48
+Male,14,Graduate,33323.03,Yes,69.24,80.4,57.87,4.52,1,Low,15.98,Yes,86.02
+Male,18,Diploma,33947.16,Yes,83.25,85.88,54.67,1.29,3,None,10.85,Yes,76.77
+Male,18,Postgraduate,35895.58,Yes,65.67,97.74,86.0,9.28,1,Moderate,8.89,Yes,91.72
+Female,17,Diploma,34171.48,Yes,85.54,95.16,67.95,8.67,1,Low,8.66,Yes,88.42
+Female,16,Diploma,34916.26,Yes,98.57,69.53,80.81,7.53,0,Moderate,8.5,No,86.59
+Male,19,Postgraduate,59635.1,Yes,63.3,88.64,53.67,7.81,2,Low,9.39,Yes,82.07
+Female,18,Postgraduate,39351.66,No,55.47,90.12,50.99,7.19,2,None,8.08,No,74.39
+Male,19,Graduate,34787.72,Yes,90.71,74.08,86.95,6.15,3,Low,8.03,Yes,83.61
+Female,15,Diploma,43483.94,Yes,86.91,77.78,69.76,8.02,2,Moderate,8.55,Yes,91.22
+Male,19,High School,24768.91,Yes,87.14,62.09,76.67,0.95,3,Low,11.17,Yes,79.96
+Female,17,Diploma,38463.5,Yes,74.74,67.6,70.46,3.21,3,None,9.48,Yes,79.29
+Male,15,Diploma,35472.67,Yes,68.82,99.92,54.02,2.0,2,Low,9.66,Yes,76.41
+Female,18,Graduate,45965.51,Yes,87.02,85.31,87.68,7.11,0,None,12.34,No,81.29
+Male,15,Diploma,39497.01,Yes,48.82,61.21,79.55,8.49,3,Low,8.61,Yes,80.71
+Male,14,Graduate,39159.55,Yes,59.05,62.19,80.54,1.09,2,Moderate,9.0,No,62.71
+Female,16,High School,44490.01,Yes,71.58,87.95,55.26,6.46,1,Low,10.56,Yes,89.04
+Female,14,Diploma,47616.92,Yes,73.96,74.46,91.88,0.5,3,Low,13.68,Yes,78.33
+Female,19,Diploma,44735.15,Yes,70.42,67.73,95.6,0.45,2,Low,8.84,Yes,73.44
+Female,18,Diploma,38047.94,Yes,59.42,64.08,98.19,4.36,4,Moderate,14.42,Yes,70.58
+Female,16,High School,33989.33,Yes,70.18,65.77,72.96,3.64,6,Moderate,4.54,No,50.43
+Male,17,High School,17657.05,No,66.47,93.23,51.66,3.34,2,None,9.77,No,71.21
+Male,19,Graduate,50661.75,Yes,42.66,70.28,75.33,7.72,0,None,9.92,No,69.22
+Male,14,Diploma,46665.77,Yes,63.51,83.48,73.1,9.33,4,None,7.85,No,72.41
+Female,19,Diploma,68485.46,No,87.41,71.16,64.38,9.59,0,None,12.84,No,89.44
+Male,15,Diploma,55333.51,Yes,69.09,70.37,85.45,6.36,1,None,7.1,Yes,81.64
+Male,16,High School,18742.31,Yes,67.95,99.1,66.45,0.89,2,Moderate,8.84,No,67.8
+Male,19,Graduate,43822.37,Yes,68.87,94.49,86.6,4.47,1,None,7.12,Yes,88.51
+Female,18,Diploma,42196.32,Yes,67.04,69.87,86.25,2.06,2,Low,10.47,No,73.22
+Male,17,High School,36251.58,No,100.0,63.35,94.84,9.64,3,Moderate,15.89,No,100.0
+Female,17,Diploma,34119.96,No,81.18,95.87,56.23,0.41,2,None,11.46,No,67.62
+Male,14,Graduate,39383.99,Yes,95.7,74.92,71.49,3.68,2,Moderate,12.29,No,87.22
+Female,18,Diploma,29194.93,Yes,83.71,79.54,80.04,8.06,2,None,10.61,Yes,100.0
+Male,15,High School,52349.13,No,60.93,90.25,81.02,6.56,2,Moderate,10.51,Yes,76.88
+Male,17,High School,36619.69,Yes,63.17,82.88,50.72,5.65,1,None,7.4,Yes,81.69
+Female,16,Postgraduate,35016.83,No,82.15,90.43,72.46,5.73,5,Moderate,11.82,Yes,88.73
+Male,18,Graduate,48517.44,Yes,46.07,77.54,81.55,6.9,1,Low,9.1,Yes,78.75
+Male,15,High School,41676.04,Yes,72.52,94.91,76.46,1.92,0,Moderate,6.07,No,66.34
+Male,16,Diploma,35723.64,Yes,79.49,92.1,56.02,7.87,0,Low,4.07,No,77.76
+Male,14,Diploma,45987.88,Yes,64.18,99.57,69.16,9.59,3,Low,11.29,Yes,80.89
+Female,15,High School,50471.14,Yes,76.19,99.74,93.64,6.15,1,Moderate,5.75,No,80.02
+Male,16,Postgraduate,51117.32,Yes,54.1,99.76,91.96,1.36,1,None,10.15,No,67.07
+Male,17,High School,50816.14,Yes,83.57,95.35,93.74,7.37,1,Low,9.39,Yes,95.54
+Female,19,Diploma,68755.35,Yes,86.18,82.32,65.03,2.65,2,None,14.63,Yes,81.16
+Female,18,High School,44863.43,Yes,69.98,88.86,79.55,9.99,3,Low,12.37,Yes,91.69
+Male,17,Graduate,48232.1,Yes,91.06,82.81,85.01,8.03,1,High,11.27,Yes,90.1
+Female,18,Postgraduate,46073.34,Yes,82.57,68.42,66.54,4.35,2,None,5.84,No,67.97
+Female,19,Postgraduate,53009.29,Yes,57.6,81.38,87.07,4.61,0,None,10.13,Yes,75.56
+Female,14,Diploma,38984.07,Yes,62.08,74.63,63.49,8.62,2,Low,2.24,Yes,70.94
+Female,18,Graduate,59487.18,Yes,82.84,83.12,74.22,5.68,3,None,10.39,Yes,88.06
+Male,16,High School,39669.97,Yes,49.24,71.86,61.68,0.61,1,Low,13.38,Yes,73.61
+Female,14,High School,44537.98,Yes,96.57,66.2,58.95,8.04,4,Moderate,5.3,Yes,74.77
+Male,14,High School,35205.65,Yes,57.55,81.46,64.86,2.77,0,Moderate,13.47,No,79.95
+Male,15,Postgraduate,47963.59,Yes,83.16,94.75,57.01,3.18,2,None,4.78,No,65.77
+Female,18,Graduate,33627.56,Yes,91.44,71.4,67.33,6.06,0,None,6.45,Yes,81.17
+Female,19,High School,29947.15,Yes,56.43,79.83,99.81,4.87,2,None,9.23,No,63.56
+Male,16,Graduate,50310.29,Yes,82.44,96.98,57.88,5.32,3,Moderate,8.09,No,71.23
+Male,19,Diploma,33388.79,Yes,62.77,63.18,99.57,7.04,3,High,9.3,No,62.05
+Male,14,Graduate,32899.09,Yes,56.02,77.59,70.67,5.86,3,Moderate,12.98,Yes,70.47
+Male,16,High School,56286.57,Yes,59.19,70.38,62.73,2.08,3,Moderate,7.45,No,51.69
+Male,16,Postgraduate,28308.29,Yes,77.65,80.5,51.64,6.45,4,None,11.07,Yes,85.83
+Female,17,High School,51555.45,Yes,93.41,79.39,58.19,1.81,3,Low,11.56,Yes,76.13
+Female,15,High School,48568.66,Yes,93.86,86.62,81.22,5.28,1,None,9.47,Yes,89.35
+Male,18,Diploma,20681.87,Yes,40.68,90.09,76.4,0.91,3,Low,13.14,Yes,70.78
+Male,16,Graduate,43052.89,Yes,43.88,74.51,68.33,1.55,3,None,11.99,Yes,57.43
+Male,15,Diploma,45227.15,Yes,72.8,82.78,75.63,8.97,3,High,10.09,Yes,79.97
+Female,17,Diploma,25315.65,Yes,63.68,78.07,99.1,2.36,2,Low,9.35,No,66.77
+Male,17,High School,45073.35,Yes,74.23,85.06,84.72,5.57,1,None,7.44,Yes,80.36
+Female,18,High School,37508.74,Yes,79.05,66.13,67.89,8.77,3,Low,8.45,Yes,80.24
+Female,18,High School,29786.18,Yes,35.37,81.49,86.9,0.52,2,Moderate,9.94,No,55.56
+Female,17,Postgraduate,40596.3,No,63.76,79.23,97.75,5.22,3,None,7.93,Yes,70.26
+Female,18,High School,33005.48,Yes,79.57,60.69,79.99,8.77,3,Low,10.38,Yes,89.36
+Female,16,Graduate,42821.8,Yes,52.26,71.27,88.89,0.51,2,None,7.0,Yes,52.17
+Female,14,Postgraduate,42008.49,Yes,78.93,65.88,64.9,6.87,3,Moderate,6.67,No,74.32
+Male,14,Diploma,41646.27,Yes,68.82,96.49,68.52,4.29,1,Moderate,8.03,Yes,72.51
+Male,17,Diploma,43286.31,Yes,68.8,72.02,79.84,0.74,3,None,8.04,Yes,69.16
+Female,14,Graduate,41119.92,Yes,94.38,89.17,62.5,6.34,0,None,8.12,Yes,90.68
+Female,14,Diploma,48954.86,Yes,38.44,93.12,76.5,9.13,2,None,7.88,Yes,63.43
+Male,16,High School,41950.98,Yes,62.68,89.8,53.82,0.07,0,None,12.04,Yes,63.89
+Female,17,Graduate,42987.8,Yes,44.77,78.13,96.85,6.5,4,High,6.61,Yes,62.94
+Male,15,Diploma,34677.86,Yes,63.02,71.35,55.38,2.49,1,None,10.05,No,72.34
+Male,17,Graduate,24125.59,Yes,79.79,68.14,92.42,9.65,2,Low,12.34,No,89.44
+Female,17,Diploma,45017.09,Yes,60.73,60.92,59.34,7.1,2,Moderate,9.71,Yes,75.91
+Female,17,Graduate,32969.17,Yes,92.21,76.42,82.45,5.34,1,Moderate,11.26,No,87.72
+Female,18,High School,25860.5,Yes,100.0,70.48,69.52,8.29,1,High,9.7,Yes,95.81
+Male,16,Diploma,37651.44,Yes,88.3,93.36,92.66,4.43,1,High,5.43,Yes,84.76
+Female,17,High School,27469.76,Yes,65.52,68.43,58.59,0.22,1,High,9.94,Yes,61.32
+Female,15,Diploma,45749.9,Yes,49.39,87.44,69.65,0.32,3,None,7.57,Yes,53.77
+Female,19,Graduate,44105.79,No,60.26,81.18,87.44,0.89,2,Moderate,11.06,Yes,73.78
+Male,17,Graduate,57781.44,No,64.28,85.43,97.35,7.64,2,None,13.8,No,90.36
+Female,17,Diploma,31409.83,Yes,59.65,99.08,57.53,5.74,2,Moderate,5.68,Yes,69.38
+Female,18,Diploma,25048.21,No,49.46,93.04,98.07,4.46,1,Moderate,5.19,No,55.94
+Female,17,Diploma,40554.35,Yes,67.19,85.32,53.97,2.75,5,None,8.88,No,56.85
+Male,14,Diploma,39554.76,Yes,72.21,75.84,51.47,6.13,3,Low,5.49,Yes,60.76
+Male,15,Diploma,19857.58,No,63.76,60.8,54.5,1.89,1,Moderate,16.3,Yes,76.18
+Male,17,High School,39977.17,Yes,94.58,71.36,89.82,9.67,2,None,11.38,Yes,93.96
+Female,16,High School,35871.86,Yes,67.94,94.24,53.57,1.5,2,Low,13.35,Yes,85.27
+Female,16,High School,43580.48,Yes,67.24,96.12,65.25,4.71,2,Low,6.04,No,61.11
+Female,17,Diploma,41478.5,Yes,76.18,62.1,53.05,6.95,0,Moderate,5.72,Yes,79.86
+Male,14,Graduate,28140.71,Yes,73.82,96.05,85.56,5.5,0,None,4.5,No,75.8
+Male,15,Graduate,42202.38,Yes,72.24,68.86,89.42,5.23,1,Low,10.45,No,69.65
+Female,18,High School,34523.53,Yes,67.73,67.09,53.13,7.25,4,None,11.76,No,71.45
+Female,17,Diploma,45571.57,Yes,31.74,64.82,73.08,9.09,4,None,8.32,No,53.27
+Female,16,Diploma,44420.78,Yes,93.21,63.21,62.6,0.74,1,None,8.27,No,60.11
+Female,16,High School,47983.94,Yes,67.27,70.71,62.92,2.15,0,High,10.97,Yes,71.96
+Female,19,High School,33079.59,Yes,69.59,92.57,81.26,4.1,7,Low,11.53,No,66.26
+Female,15,High School,41998.83,Yes,86.54,84.04,64.04,8.72,3,None,7.51,No,73.31
+Male,16,High School,36397.05,Yes,65.2,82.12,92.92,4.9,6,Low,8.78,No,67.1
+Male,14,Diploma,28475.5,Yes,90.93,96.07,68.14,3.42,1,Low,5.13,No,78.94
+Female,16,High School,43702.36,No,61.86,83.92,85.65,0.81,3,Low,9.09,Yes,66.63
+Female,19,Graduate,26188.1,Yes,52.19,92.78,98.33,7.47,4,None,10.81,Yes,81.12
+Male,17,High School,51946.16,Yes,68.28,92.84,67.71,1.16,1,None,11.4,No,65.37
+Male,18,Diploma,43007.99,Yes,34.46,66.47,91.29,0.74,1,Low,12.91,Yes,64.52
+Male,16,Postgraduate,36085.57,No,95.74,73.46,74.79,5.88,2,Low,17.96,No,87.48
+Female,19,High School,50578.04,Yes,68.4,71.13,76.75,9.22,0,Low,14.91,No,81.64
+Female,15,Diploma,56702.86,Yes,89.77,63.51,77.23,8.39,1,Low,10.11,Yes,90.39
+Female,16,High School,36071.64,Yes,100.0,95.6,76.82,4.91,1,Moderate,13.69,Yes,99.18
+Male,18,Diploma,51420.45,Yes,71.43,75.47,99.54,0.96,5,None,11.76,Yes,67.23
+Male,17,Graduate,39147.95,Yes,75.54,70.11,62.35,6.33,0,Moderate,10.43,Yes,84.64
+Male,18,High School,36714.13,Yes,48.52,77.34,88.79,1.45,2,None,5.23,No,45.81
+Female,19,High School,50722.38,Yes,70.75,96.22,97.29,3.17,2,None,9.64,No,78.87
+Male,15,Postgraduate,27397.49,Yes,93.87,88.55,54.29,5.2,2,Low,12.32,Yes,88.69
+Female,19,High School,58409.17,Yes,70.26,97.24,79.65,6.29,0,High,4.84,No,76.88
+Female,14,Diploma,18327.6,Yes,52.74,61.09,71.77,7.42,2,Moderate,11.24,Yes,71.46
+Male,18,Graduate,45879.77,No,70.2,71.36,91.42,0.39,0,Low,3.61,No,64.93
+Male,19,Diploma,38297.52,Yes,64.16,91.97,78.3,7.27,2,None,12.87,Yes,89.29
+Female,15,Diploma,50805.34,Yes,85.37,78.88,97.77,4.77,0,Moderate,11.83,Yes,88.13
+Female,14,High School,41168.54,Yes,44.96,93.95,59.26,1.52,4,Low,8.32,Yes,61.85
+Male,18,Postgraduate,39707.34,Yes,31.17,73.07,80.72,5.69,2,Low,9.45,Yes,63.27
+Female,19,Diploma,50098.82,No,70.76,63.15,99.93,2.77,0,None,5.9,Yes,71.18
+Female,16,Graduate,42907.4,Yes,57.49,80.73,71.06,0.78,0,Low,18.3,Yes,84.38
+Male,16,Diploma,23853.62,Yes,67.34,89.62,96.36,9.3,1,Moderate,14.28,No,92.85
+Female,18,Diploma,56846.56,No,84.71,64.22,95.67,2.34,0,Low,9.24,Yes,79.83
+Female,15,Diploma,62746.69,Yes,68.4,99.91,54.93,1.89,0,Low,12.94,Yes,86.04
+Male,14,Diploma,35939.07,Yes,56.27,97.43,70.85,4.5,1,None,10.66,Yes,79.73
+Female,15,Diploma,54366.91,Yes,84.87,68.54,63.11,2.22,0,None,8.02,No,70.75
+Male,17,Postgraduate,33791.49,Yes,52.87,98.68,88.09,7.56,2,Low,9.82,Yes,85.84
+Male,18,Graduate,55376.48,No,54.57,63.21,91.14,3.99,0,None,9.77,Yes,74.42
+Male,15,Diploma,28379.34,Yes,54.22,96.16,61.89,4.8,1,None,10.4,Yes,78.2
+Male,15,Diploma,44893.7,Yes,74.74,66.02,85.53,4.86,1,Moderate,9.09,No,76.89
+Male,16,Graduate,41541.77,Yes,100.0,80.57,68.22,4.87,2,None,1.62,No,69.62
+Male,17,Graduate,29772.89,No,73.2,87.15,76.74,1.13,2,Low,10.27,No,62.58
+Female,19,Graduate,35288.44,Yes,67.36,84.0,51.96,3.66,2,Moderate,13.38,No,82.0
+Female,18,Diploma,46428.38,Yes,75.09,75.95,87.91,8.82,3,None,13.55,Yes,93.46
+Male,14,Diploma,24659.69,Yes,66.43,92.93,52.84,4.74,2,None,13.05,No,68.5
+Male,17,High School,34426.31,Yes,70.31,84.31,79.83,1.31,8,High,7.23,No,59.32
+Male,16,Diploma,62182.06,Yes,52.82,68.77,72.16,3.92,5,Low,16.18,No,68.98
+Male,16,Diploma,35030.69,Yes,77.16,68.43,75.56,7.54,1,Low,10.94,Yes,88.28
+Male,17,Graduate,36723.49,Yes,64.15,90.5,87.41,1.04,0,Moderate,7.16,Yes,73.56
+Female,16,Diploma,58481.45,Yes,89.68,70.98,77.76,0.15,2,None,6.83,Yes,78.53
+Male,19,Diploma,46893.02,Yes,65.36,61.47,86.59,8.07,3,None,5.22,Yes,67.57
+Female,19,Diploma,51026.97,Yes,64.34,63.94,69.18,2.7,3,Low,4.68,No,57.02
+Female,19,High School,37840.55,Yes,94.37,75.44,54.12,1.09,1,Low,8.44,No,67.84
+Male,14,High School,48588.63,Yes,90.04,95.94,52.29,3.77,0,None,10.25,Yes,84.51
+Female,17,High School,26311.07,Yes,72.71,89.4,93.69,6.37,4,Low,10.63,No,80.01
+Female,17,Graduate,41686.7,Yes,58.33,96.43,98.08,1.65,2,Low,14.16,Yes,66.69
